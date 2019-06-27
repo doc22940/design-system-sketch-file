@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "536816BD-6A0A-4EDA-BB3F-02F968DE16B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9780A46A-C80A-47DD-AF5D-40E90B3FBCB4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A6BF7C9-66B6-4561-876A-D52A75247E0A",
+    "height": 96,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "141F478F-39AC-46A0-A36C-8FACAD62F82F"
+    },
+    {
+      "class": "text",
+      "id": "BAF04987-AAA3-408B-9F19-98CAD8FCCF6F"
+    }
+  ],
+  "name": "Opacity",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "8F402C37-ED26-4180-8891-FC926B2FEFA0",
+      "opacity": 0.3
+    },
+    "do_objectID": "A7523512-61A5-430B-8A5A-B8BAC3DB4B70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

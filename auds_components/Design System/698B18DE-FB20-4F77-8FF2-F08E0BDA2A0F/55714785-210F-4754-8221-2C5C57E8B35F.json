@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "55714785-210F-4754-8221-2C5C57E8B35F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 210,
+    "x": 21,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "cta / light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4257FA38-9EF2-42F0-A1E2-D797676EE1EB",
+      "overrideName": "7B5CF8AD-F954-4555-8E7C-A5A4ABF603ED_stringValue",
+      "value": "s"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDEB1D71-1877-41E7-9583-D7828F24B763",
+      "overrideName": "2718DE14-7567-4718-B013-E5FAF58F10C4_stringValue",
+      "value": "d"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FE6C953-957F-44E2-BDBD-3F0A7E8DFC46",
+      "overrideName": "508926F2-21DE-4A6C-8745-A72E8E101B4C_stringValue",
+      "value": "Custom text"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3E08ABFF-83D7-4A1D-BA50-0B7FCCB550F8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0FFE8AE2-F5C2-489A-AC9F-46DDD66D7BCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7880BB5-FF11-4958-924D-75022D4B4C4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B723014E-FAEC-4086-8A47-5EB608A30EDC",
+    "height": 42,
+    "width": 174,
+    "x": 27,
+    "y": 92
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox / light / enabled checked",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54884CC0-98D4-42B4-B70F-66F719C0D3EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4BF6E9DF-9E51-45C1-AFB2-D290DE77F95F",
+  "verticalSpacing": 0
+}

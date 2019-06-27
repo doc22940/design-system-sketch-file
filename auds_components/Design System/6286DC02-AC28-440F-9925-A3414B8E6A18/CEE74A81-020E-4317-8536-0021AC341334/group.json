@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEE74A81-020E-4317-8536-0021AC341334",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 424,
+    "width": 209,
+    "x": 559,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C02EAD3F-C6FC-4357-B37E-DDFB6AC51ACE"
+    },
+    {
+      "class": "text",
+      "id": "63F33997-0EBA-401F-BC2E-4E107DD01561"
+    },
+    {
+      "class": "text",
+      "id": "A017BE44-4274-42D0-8CDD-668111FF4BAA"
+    },
+    {
+      "class": "text",
+      "id": "FE3D0608-0D1C-4B29-93E7-44EC0CF14FF2"
+    },
+    {
+      "class": "text",
+      "id": "E59797C0-77C9-4CBD-9FCF-AAC6DB406954"
+    },
+    {
+      "class": "text",
+      "id": "5C43E239-0ADA-47A1-A026-4DD04F6B0840"
+    },
+    {
+      "class": "text",
+      "id": "C8CBEC3C-1DF8-4D2E-8435-035F93435AC0"
+    },
+    {
+      "class": "text",
+      "id": "C1639D5B-373A-4B52-9719-C9533F81CBA9"
+    },
+    {
+      "class": "rectangle",
+      "id": "CDD5ADF6-B48F-46A6-9CB5-D78D1A2FC945"
+    },
+    {
+      "class": "rectangle",
+      "id": "B307D12E-95A3-43ED-9166-D88F30C7B8F9"
+    },
+    {
+      "class": "rectangle",
+      "id": "C72381E9-0F22-4F6B-B884-55BD6EB4C80F"
+    },
+    {
+      "class": "rectangle",
+      "id": "38087932-EA17-4B51-A1BB-8BB679DDFF9A"
+    },
+    {
+      "class": "rectangle",
+      "id": "9688EB8C-C83A-4280-92BC-E3CC043D40F0"
+    },
+    {
+      "class": "rectangle",
+      "id": "606FC0A3-C3FB-45D6-A02E-7341C4759095"
+    },
+    {
+      "class": "rectangle",
+      "id": "0354AF01-32BC-4952-8B3A-B8C051EB0EC1"
+    }
+  ],
+  "name": "Heading line-height",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

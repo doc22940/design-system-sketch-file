@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F01F2D86-6787-4EDB-8EBE-7FA8573E7EA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FD50FB5-AFDE-4402-BA5A-0DBAF7877F97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E930A53D-DD32-414F-9C30-DC02116A4037",
+    "height": 204,
+    "width": 480,
+    "x": 48,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / dark / Desktop Default Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC1E382D-5D61-4C70-9740-4287234C5F65",
+      "overrideName": "70F0DF91-734D-4F5A-AFF7-901E8F3FC32E_stringValue",
+      "value": "An example of the system in use"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "718FCF8B-4698-42D2-9B20-F51D4CB2FDA8",
+      "overrideName": "BAF2C4AE-F001-4AA2-8FC4-CB977446438F_stringValue",
+      "value": "Example Site"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F159AA9-65DD-4ECE-BD4E-48A13A9DF9A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C909473C-EBAA-4778-9043-2C5737848967",
+  "verticalSpacing": 0
+}

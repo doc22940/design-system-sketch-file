@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5395A7D7-2858-423A-A5A2-6AE5FFE7CE46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 169,
+    "width": 282,
+    "x": 20,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / dark / Mobile Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE88C604-5057-48E4-B299-E5F4A9905028",
+      "overrideName": "F71EA8B7-02F6-439B-AF7F-98ACAF46F3C4_stringValue",
+      "value": "An example of the system in use"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4FE6DD9-A07D-4D6B-B212-E1EC726D23E1",
+      "overrideName": "CD19B754-11B8-4F5C-8F1F-A82F4BC9601B_stringValue",
+      "value": "Example Site"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "979ECE9B-0860-4578-B37B-B9C903289EC3",
+  "verticalSpacing": 0
+}

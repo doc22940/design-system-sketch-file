@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E21C16D-4183-4469-8CE3-16B19412BB18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C1BC191-4FE4-4F8D-8B52-3FAE24316ECF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32DA8A89-246F-40F1-8B8C-462F7C9CD671",
+    "height": 64,
+    "width": 73,
+    "x": 144,
+    "y": 178
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main-nav / light / desktop item active copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99E7E78A-0195-448D-8EDE-DBB78B001751",
+      "overrideName": "A14D5527-7DAD-4C60-99E3-E6772264B9F3_stringValue",
+      "value": "Home"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD50DAA7-01FB-47CF-B513-7DBAC6EC7B23",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFE49F20-CADD-447E-BB25-8A5151D3CA3F",
+  "verticalSpacing": 0
+}

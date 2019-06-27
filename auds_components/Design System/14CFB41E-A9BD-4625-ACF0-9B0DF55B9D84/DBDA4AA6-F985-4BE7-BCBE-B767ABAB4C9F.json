@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBDA4AA6-F985-4BE7-BCBE-B767ABAB4C9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFFAA679-A507-42A7-AA35-5D1D5B1102DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88BCDFA0-F7F3-4DA4-95E8-EEB6FCCB0053",
+    "height": 48,
+    "width": 48,
+    "x": 48,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main-nav / light / mobile / toggle button collapsed copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "376F7805-7C78-4730-AB5F-B9B8A36E66CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5940C875-21CA-4324-A206-236D8AED3BF1",
+  "verticalSpacing": 0
+}

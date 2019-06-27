@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "325276C1-C633-44FC-8159-6BE18E8B2DD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1EFE24E7-9244-40A2-BECC-2C520A366215",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "16B31FDC-B084-4E58-9A29-AC2313A82634",
+    "height": 64,
+    "width": 417,
+    "x": -5,
+    "y": 79
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main-nav / dark alt / desktop / background copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E36892BE-D8AB-4E95-80F4-A99023132DC4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B4907A07-2ABE-4F9E-9F08-3B19F4674743",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6ACA3AE-C1A5-4DE6-B9E1-DAF7C60588C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF3EF533-4702-451D-AC97-D6AE351EAC2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4773C0D-63F6-4352-B1AE-DC4BEDAB3F8A",
+    "height": 64,
+    "width": 104,
+    "x": 104,
+    "y": 79
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main-nav / light / desktop / item default copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B19A5B7C-E7E9-4F98-A31B-E1A66B06C0F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D16E8B9B-0DCC-4811-99B6-529A91CD2004",
+  "verticalSpacing": 0
+}

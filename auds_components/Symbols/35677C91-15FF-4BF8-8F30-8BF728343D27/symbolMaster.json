@@ -1,0 +1,118 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C27B7BD1-C775-44F3-9151-30263D44EFCC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 447,
+  "clippingMaskMode": 0,
+  "do_objectID": "35677C91-15FF-4BF8-8F30-8BF728343D27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42181AE9-E73B-4A35-ADA5-0E8AF923695A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "528CAEE9-0536-470F-9373-B13BFF354F54",
+    "height": 38,
+    "width": 38,
+    "x": 23803,
+    "y": 3620
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "94FF5CBA-50BB-420D-A5F4-9484BF51734D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EC288F71-516F-418B-A702-365375594215"
+    }
+  ],
+  "name": "z - utility / icon / radio / light / disabled checked",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7923E6F6-A62A-4A08-85AA-D1E7E2EDF257_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C7D8E14E-4A53-4B0C-99A4-4CB066A64E38_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "69A3BA9C-0799-4AE4-8EC2-2C3778416F67_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "69A3BA9C-0799-4AE4-8EC2-2C3778416F67_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7923E6F6-A62A-4A08-85AA-D1E7E2EDF257_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C7D8E14E-4A53-4B0C-99A4-4CB066A64E38_image"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "840AF512-29B8-4365-8060-BA4F665EFB4F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9DC95A3F-B13C-4D55-B443-4EE7FBBEA72F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F3B25E8E-1424-4D47-8952-F2C28FBE940E",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1249C76-5643-4D0B-BE95-40B80EC5FBF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFDEB83F-1618-47C4-B2ED-63527B177DA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "970A8FAD-D29B-41BE-B533-1C29BBCF78A7",
+    "height": 10,
+    "width": 16,
+    "x": 268,
+    "y": 23
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "accordion-chevron",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B12EA7B1-04B0-436F-9B34-AF07CDEA2797",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "331AE6BF-2A88-400D-BEBC-36703C4D2E23",
+  "verticalSpacing": 0
+}

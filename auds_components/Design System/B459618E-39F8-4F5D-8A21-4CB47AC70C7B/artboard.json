@@ -1,0 +1,143 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "67391035-50D8-4D48-8FEA-8ABCA60CB73E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B459618E-39F8-4F5D-8A21-4CB47AC70C7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A58E0E4-4F07-4A0C-ACAB-E821585C833E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C23F98AE-F928-4A70-96BE-076100CF513C",
+    "height": 497,
+    "width": 835,
+    "x": 10789,
+    "y": 3693
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9D5E49CF-9231-4D5A-B19F-2B24E24F13FE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2B3EA9CC-17A1-4439-BA15-470BC2B8D696"
+    },
+    {
+      "class": "rectangle",
+      "id": "A34FB78A-0D22-436B-B767-BF796FDA9248"
+    },
+    {
+      "class": "rectangle",
+      "id": "B6E1EA1E-6EF0-4527-B20B-A0797ACBD452"
+    },
+    {
+      "class": "rectangle",
+      "id": "3BED4D47-9230-4B52-AC4B-38E7C8D597C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EEA1F6D4-AB58-43DF-901D-D51D0AF92B31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05B074B0-50B8-44C8-879C-822B19A1EA14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EE7B9BF-2A87-47F7-B3D0-38F5D80D256A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E65D4DD3-528D-4F99-96E2-C714539469FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC735081-C9BE-4B44-9069-789ED1488851"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "797C62F6-5C40-41E9-9B4E-FD4210F2724F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C777979-AD15-4F06-B3D9-48E9992605A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBCCC6A4-6F55-4D76-A968-D185DC045F4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F05F6D1D-2745-4BE0-90D6-70D297C14023"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D8DCA95-15D9-466E-897B-11DBE548D81F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E002FBC1-33C8-4A6F-994E-3960478C35A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA8C9664-97C3-48E8-8096-97F21A72A35D"
+    }
+  ],
+  "name": "Component -- Progress indicator",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61C6DDA9-47FB-4D28-873A-09ADCA78E817",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6FFCB8C1-300F-4EE4-B138-D61A1B2B07CB",
+    "guides": [
+    ]
+  }
+}

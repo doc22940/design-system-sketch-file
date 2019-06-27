@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D515356-0FF3-4E4C-89F9-FF1E302F26FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "046652F4-7B71-4030-BE2C-E17B91E7F87E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E632AA99-9E87-42AD-8B1E-10608C647631",
+    "height": 24,
+    "width": 69,
+    "x": 631,
+    "y": 105
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Direction-links / Light / Left Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53127CCF-025F-4B94-A5D2-F26D0C06CD9A",
+      "overrideName": "E8598B41-F6FB-404C-B934-7AF432761A6A_stringValue",
+      "value": "Bottom"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A06363C7-458C-466B-BEAF-B788D33E1821",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F600E119-CFB9-4374-BAF3-E165A1DFC64C",
+  "verticalSpacing": 0
+}

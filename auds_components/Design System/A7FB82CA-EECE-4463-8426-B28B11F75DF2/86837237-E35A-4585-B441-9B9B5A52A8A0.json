@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "86837237-E35A-4585-B441-9B9B5A52A8A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFBD209D-E089-4BD0-8211-574A27EC802A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25EBFD99-12AB-4783-8366-7F8BBDB8E398",
+    "height": 70,
+    "width": 261,
+    "x": 19,
+    "y": 101
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Callout Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC6069E4-0C35-488F-BDAB-E674E33A9D9B",
+      "overrideName": "33202BBD-78D4-4E40-A123-FFC28E3B9B09_stringValue",
+      "value": "Nullam quis aliquam massa. Nunc suscipit, nisi in facilisis tempus, lectus quam ullamcorper tellus, in rutrum ipsum tortor sed nisl.\n\nPellentesque porttitor in turpis in ornare. Quisque posuere sapien accumsan malesuada rutrum. Nulla vitae ex lacinia, rutrum est eu, tincidunt justo. Donec et ullamcorper elit, sit amet vulputate ipsum. Nulla porttitor rutrum libero sit amet sodales. Maecenas tincidunt dapibus pretium.\n\nDuis condimentum maximus ligula sed tincidunt."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE3701CF-4418-4DC5-BBA7-7A33012D1C8F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6CD253E8-8F13-4447-8E1B-8C47879534E6",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "34C310CB-2FB4-45F0-826B-2E441186A51B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB6F15EF-549A-421E-824E-5D1DBE47F530",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3023F073-6724-4AB9-A84F-F9D234420D20",
+    "height": 32,
+    "width": 32,
+    "x": 3,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E8D8841C-7A1B-4480-B1AC-CA6E3A55FFDD"
+    },
+    {
+      "class": "shapePath",
+      "id": "6403F784-FB00-48C1-AF9D-A5718638FE8A"
+    }
+  ],
+  "name": "checkbox-shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3A4940C-D133-4C8F-BAF7-CD2F36C0408C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

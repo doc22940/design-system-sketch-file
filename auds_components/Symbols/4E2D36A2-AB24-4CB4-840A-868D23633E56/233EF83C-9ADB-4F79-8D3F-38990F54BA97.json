@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "233EF83C-9ADB-4F79-8D3F-38990F54BA97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98936901-A708-4019-AA47-9A56A8C2B6A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "96D7F67F-1811-48B7-AB4A-E5F9B41A17EE",
+    "height": 47,
+    "width": 192,
+    "x": 0,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo / coa-black",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "771FD61A-B5A3-4CFA-A85F-4A0DB768B7FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12A5C61C-6D14-4757-BBAA-1C4AC69B172D",
+  "verticalSpacing": 0
+}

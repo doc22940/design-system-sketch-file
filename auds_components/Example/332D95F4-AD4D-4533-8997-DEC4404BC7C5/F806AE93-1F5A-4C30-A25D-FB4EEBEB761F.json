@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F806AE93-1F5A-4C30-A25D-FB4EEBEB761F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F8BB3AB-CCA0-4BEF-A3E5-99733009E867",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "544117D0-138C-42DA-B81C-3626024B5BCA",
+    "height": 46,
+    "width": 171,
+    "x": 239,
+    "y": 504
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / dark / Primary / Default Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0E9C658-7C5F-4A56-B96C-507A4258949D",
+      "overrideName": "B68E9162-7701-44C4-A98C-F4CD2203EC67_stringValue",
+      "value": "Get Started"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5981566-87CA-498F-A279-982D1598EEBB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3496FCB9-2787-4E61-AC3B-EDCAF1622D06",
+  "verticalSpacing": 0
+}

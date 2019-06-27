@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3982116-BBA5-4538-8F68-3AC5EA80C592",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF42CE39-1568-41FF-8AD8-61C923BDBD84",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CC2DB75-9E36-404C-9A9E-28C38DD52628",
+    "height": 52,
+    "width": 270,
+    "x": 144,
+    "y": 858
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Side-nav / light / level-1 / default Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B3CCD34-9182-4CE0-B56C-42BE5311B89C",
+      "overrideName": "7F95C50D-E6F8-4498-8C77-7649C8A05F1E_stringValue",
+      "value": "Community"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4928C093-B09F-4E2F-9599-6B5AD830A140",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "38063211-EEBB-4C26-BB26-80500FE15BCD",
+  "verticalSpacing": 0
+}

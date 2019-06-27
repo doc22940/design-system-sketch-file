@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "389E1556-5121-4DCF-8D23-74D38FFCBDC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A6B1934-FA54-4C3D-9B47-92662CFDFAD0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "614A1CFF-A667-47D2-8B90-0F46CF97BE47",
+    "height": 64,
+    "width": 104,
+    "x": 208,
+    "y": 230
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main-nav / light / desktop / item default copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D6598D5E-9E1E-4D1B-96AB-08131804A07C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "76BF212C-CE17-48E0-A2EB-C089BC6978CC",
+  "verticalSpacing": 0
+}

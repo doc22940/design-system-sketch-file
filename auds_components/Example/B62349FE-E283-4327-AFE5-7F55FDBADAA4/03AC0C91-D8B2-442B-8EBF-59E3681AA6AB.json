@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "03AC0C91-D8B2-442B-8EBF-59E3681AA6AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 178,
+    "width": 1152,
+    "x": 144,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / dark / Desktop Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16F15C5F-C926-43BA-9E5C-0E30A6F07DFA",
+      "overrideName": "BAF2C4AE-F001-4AA2-8FC4-CB977446438F_stringValue",
+      "value": "Example Site"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C1AC64D-693C-4955-BCFA-344AB32E5BEC",
+      "overrideName": "70F0DF91-734D-4F5A-AFF7-901E8F3FC32E_stringValue",
+      "value": "An example of the system in use"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C909473C-EBAA-4778-9043-2C5737848967",
+  "verticalSpacing": 0
+}

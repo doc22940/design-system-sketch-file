@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "021D90EE-8837-419F-896D-52E27A0D5735",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35CEF3DA-72BE-4799-B56A-DAD7EA350F69",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71544F51-2477-4943-BEF2-CB242D47ACA5",
+    "height": 64,
+    "width": 85,
+    "x": 353,
+    "y": 204
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main-nav / light / desktop item active copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F04A494B-1546-4C6B-96C0-58C793214C77",
+      "overrideName": "A14D5527-7DAD-4C60-99E3-E6772264B9F3_stringValue",
+      "value": "Careers"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADB809E8-7AD4-4AC7-A91D-964104540A0B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFE49F20-CADD-447E-BB25-8A5151D3CA3F",
+  "verticalSpacing": 0
+}

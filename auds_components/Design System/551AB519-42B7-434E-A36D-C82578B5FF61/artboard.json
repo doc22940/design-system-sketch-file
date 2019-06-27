@@ -1,0 +1,137 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "551AB519-42B7-434E-A36D-C82578B5FF61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 192,
+    "width": 1070,
+    "x": 789,
+    "y": 3693
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "867C62E5-30B9-42E6-85AC-C7E2E05868BB"
+    },
+    {
+      "class": "rectangle",
+      "id": "9FB218E6-0BE4-4D6F-93DF-D35BBADEF9FF"
+    },
+    {
+      "class": "rectangle",
+      "id": "C51AB269-A447-4A20-B375-420B07FF3470"
+    },
+    {
+      "class": "rectangle",
+      "id": "B69FA696-BD16-47C7-B0ED-9D2C0ACED377"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1643F756-9732-4F3D-B988-C6DB7BA1872C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFC23E68-01DD-4B91-ABC7-7687159B5FE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D7105C1-30E7-4E20-8FD0-7336C3C1F2EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E18F35C-8C17-4CB8-AD92-50522CC78E43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6E7496D-39D4-4576-B874-7AAC0FDDB9DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21FF43CC-3CF7-45F6-A431-585D33861D5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C1D7C8A-0AA7-4557-AD3C-C8A1CDC6CF1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDEA7043-67AE-436C-AA64-E28C004ECE4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "347673B2-AF59-4D61-A1D2-4E8C62B6C505"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA6DB7A8-3235-44D7-A244-F2661F207F43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25A79E18-7359-44EB-9357-3B104AAD183D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04ABE473-24F2-4B6D-84B5-3C27955C9DCB"
+    }
+  ],
+  "name": "Component -- Buttons",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

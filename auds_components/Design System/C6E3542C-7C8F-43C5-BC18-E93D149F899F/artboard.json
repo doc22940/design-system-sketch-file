@@ -1,0 +1,146 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9411764705882353,
+    "do_objectID": "AC047D13-CE03-4903-96EB-14D16744DD81",
+    "green": 0.9411764705882353,
+    "red": 0.9411764705882353
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6E3542C-7C8F-43C5-BC18-E93D149F899F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C3691B3-3059-4355-AEEE-CE1945BE2EF0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4591A7D4-69FB-411D-B654-4E4763A013AD",
+    "height": 2205,
+    "width": 1780,
+    "x": 4486,
+    "y": 1140
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E0F107AE-357E-4437-B0F1-BBF3B330AB24",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B938AEB6-F141-4338-9507-2E44F5FC354A",
+    "guides": [
+      1001
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EA367660-CFB0-4ADA-8D3A-9034E3134745"
+    },
+    {
+      "class": "group",
+      "id": "E3A8E8CA-F746-4169-8BF2-AA0F76D34911"
+    },
+    {
+      "class": "group",
+      "id": "6A4DB0B0-970F-4365-932D-4D22AB5A5E12"
+    },
+    {
+      "class": "group",
+      "id": "F135C866-BD66-4DA5-8969-4AE336DC92EF"
+    },
+    {
+      "class": "text",
+      "id": "1946AEB9-5D9C-4544-A983-F879286826DD"
+    },
+    {
+      "class": "group",
+      "id": "F05C90CD-FD88-45FF-AD0F-A01A274DA4FA"
+    },
+    {
+      "class": "group",
+      "id": "D20F9D23-48F4-44AF-83D2-0805B9A3162C"
+    }
+  ],
+  "name": "Core -- Vanilla_Palette-–System",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1800E106-E632-4DED-A7DB-58CF733B1850",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F5881B88-2DE4-4333-8270-2D05C290C11C",
+    "guides": [
+      350,
+      690,
+      1019,
+      1378
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "69DA19AE-57D6-414A-8CD2-A885AA68DF98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F48555A5-4C22-44A1-97BC-E5E561F58158",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4D37DD0-1FE5-4906-AE65-FE48C03C18DC",
+    "height": 64,
+    "width": 98,
+    "x": 534,
+    "y": 178
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main-nav / light / desktop item active copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB7264BE-9693-4168-8FFC-1F04A884D56F",
+      "overrideName": "A14D5527-7DAD-4C60-99E3-E6772264B9F3_stringValue",
+      "value": "Reporting"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C023D1EF-E4E3-42C6-B895-654E807011FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFE49F20-CADD-447E-BB25-8A5151D3CA3F",
+  "verticalSpacing": 0
+}

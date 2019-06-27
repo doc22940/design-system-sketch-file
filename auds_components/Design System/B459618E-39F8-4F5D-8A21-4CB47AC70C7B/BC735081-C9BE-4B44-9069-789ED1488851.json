@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC735081-C9BE-4B44-9069-789ED1488851",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B475CC9F-6DA7-4FB2-B763-AFF854EB3092",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7ABE830E-806F-4358-95E8-2A1702E8CE0F",
+    "height": 64,
+    "width": 320,
+    "x": 37,
+    "y": 89
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "progress-indicator / light / doing copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3FA4F8F-99E2-48D3-93E2-7EEF33DF4796",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8E9215D8-46EB-4B5F-A6F0-8B2F68121CAB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B11C43DD-58CA-4A9B-B1F7-61A9A7B466E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00C59DD3-39E7-4F87-ADA2-46959E04FD2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC5F185F-B348-4A07-8226-57BDF720AF61",
+    "height": 46,
+    "width": 74,
+    "x": 646,
+    "y": 55
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / dark / Primary / Default Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB95B4B0-5079-4565-80EF-ECB50F366C93",
+      "overrideName": "28D638AD-DED6-45AD-9277-2A56850B90BD_stringValue",
+      "value": "Search"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C0272565-2865-4972-B4AA-B619EE5FABFA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F5140928-B911-414B-83B2-2F3513348AA1",
+  "verticalSpacing": 0
+}

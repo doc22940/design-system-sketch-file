@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "53F4EBB2-B101-408E-9974-AF5E9F7CB031",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81DDDE16-1696-490B-8F7F-5A9D2EA7FE85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A2CC83A-3D17-4503-9705-A0BDE075581F",
+    "height": 231,
+    "width": 320,
+    "x": 2201,
+    "y": 921
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Header / light / Mobile Hero Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32D8D389-C11B-430A-A687-58C34B2476F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1073F140-0A81-4F1E-8E2F-4FD176C274FE",
+  "verticalSpacing": 0
+}

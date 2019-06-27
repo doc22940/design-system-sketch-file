@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F29F8DB2-F0F0-452B-9C38-C67E524B8A78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D60077A-FFD7-4160-B983-5E734467D57E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13B5CCF9-86AD-4A08-A0AE-96BC4A1105CF",
+    "height": 56,
+    "width": 300,
+    "x": 346,
+    "y": 18
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Accordion / Dark Alt / Closed Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1B05EE0-43E5-4C60-B55F-D751F2FBAF4F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "309D9F6B-3CCA-450A-8291-7D30028BFD62",
+  "verticalSpacing": 0
+}

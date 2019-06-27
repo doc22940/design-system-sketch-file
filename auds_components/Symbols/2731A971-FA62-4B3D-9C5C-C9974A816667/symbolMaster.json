@@ -1,0 +1,157 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3189,
+  "clippingMaskMode": 0,
+  "do_objectID": "2731A971-FA62-4B3D-9C5C-C9974A816667",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 320,
+    "x": 16431,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3F462451-F5B4-4A6F-BA4F-A7FC523AEEF8"
+    },
+    {
+      "class": "rectangle",
+      "id": "16969997-4835-4B41-9409-C1FEAD803658"
+    },
+    {
+      "class": "rectangle",
+      "id": "EBFF5A6F-FA60-4A2D-8206-9D02012C6266"
+    },
+    {
+      "class": "text",
+      "id": "3EA94B76-3D0C-4351-A610-E2B240443C5F"
+    },
+    {
+      "class": "text",
+      "id": "EC85F0D0-F7AE-42A3-A261-14C0F271B752"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2ECA563B-96B9-4448-9D51-8804559C7942"
+    }
+  ],
+  "name": "progress-indicator / light / doing",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3F462451-F5B4-4A6F-BA4F-A7FC523AEEF8_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "16969997-4835-4B41-9409-C1FEAD803658_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EBFF5A6F-FA60-4A2D-8206-9D02012C6266_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2ECA563B-96B9-4448-9D51-8804559C7942_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3F462451-F5B4-4A6F-BA4F-A7FC523AEEF8_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3EA94B76-3D0C-4351-A610-E2B240443C5F_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EBFF5A6F-FA60-4A2D-8206-9D02012C6266_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "16969997-4835-4B41-9409-C1FEAD803658_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3EA94B76-3D0C-4351-A610-E2B240443C5F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EC85F0D0-F7AE-42A3-A261-14C0F271B752_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EC85F0D0-F7AE-42A3-A261-14C0F271B752_textStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "932114C8-C538-41C8-BB68-F94595DB3AE8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

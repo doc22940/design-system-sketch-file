@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5504CB76-1358-48DA-A4D6-CF3EC44B96EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27A1E93F-5F02-4F3D-903C-4E865D3636D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6F93B4D-02AA-491D-9F18-9B028F0DFE6A",
+    "height": 32,
+    "width": 1152,
+    "x": 144,
+    "y": 550
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "breadcrumbs / light / Levels-5 Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2228B066-FF18-4506-82DA-10EA5BA5FFF2",
+      "overrideName": "CFA8A4CE-1C06-4545-AB3A-37A8826EDC7E_stringValue",
+      "value": "Responsibilities"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6093330-65E3-4A87-81C5-CAAA795E8EFB",
+      "overrideName": "C27ECCBC-42BC-4559-8DFC-4C246EBE44AD_stringValue",
+      "value": "Home"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DEEE9207-D938-4B46-943E-32A1387C9541",
+      "overrideName": "9D97A447-35D0-48B3-9EB6-53C249D76B8C_stringValue",
+      "value": "User needs"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E90D6606-97B5-4475-923D-A94CF753B221",
+      "overrideName": "6DCEC097-B68C-4D02-8B3D-D7362194CBDA_stringValue",
+      "value": "Understand user needs"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E544F13C-6257-4FB6-93EB-C5B6A04C1CC8",
+      "overrideName": "F07AA15D-A09C-416B-94A0-0F5DBF4DC4EA_stringValue",
+      "value": "Community"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F41B4A4C-7C7B-42B7-AD72-BD59FA6381DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8DC4DFE7-26A2-4845-9FE3-A2793E9465CB",
+  "verticalSpacing": 0
+}

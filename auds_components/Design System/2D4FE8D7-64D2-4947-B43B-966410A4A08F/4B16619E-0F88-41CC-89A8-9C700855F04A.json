@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B16619E-0F88-41CC-89A8-9C700855F04A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DBEE7CB2-249E-4376-93D5-3B5FC9DD7C63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78A29116-DB1E-47FA-BA0B-D0987AD73E55",
+    "height": 32,
+    "width": 437,
+    "x": 498,
+    "y": 120
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "breadcrumbs / light / level 2 copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "45AFD84F-DA56-4D46-9A41-3D562D4AFB09",
+      "overrideName": "B44A9B13-8F97-4A78-87AE-4D11A0038F17_stringValue",
+      "value": "Components"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97855B0E-7FD2-4879-9997-D03695B40D73",
+      "overrideName": "132F705C-162E-4787-B295-FE587B23F035_stringValue",
+      "value": "Button"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "143A54C2-0252-4DD5-8E61-5FEEE393CCE7",
+      "overrideName": "8F070B8F-CF1F-4B37-AF3D-B65EFE9EC82A_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD858DEB-7A7F-4DB0-9037-BE9E108891F5",
+      "overrideName": "94320520-3EE6-4BAB-8570-F641172D52E8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0558E83-7B95-4A36-9805-0405AAAF7504",
+      "overrideName": "1DB79B76-0D8E-4E93-9B9F-47BD16977EB8_stringValue",
+      "value": "Buttons"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73481277-2FAC-49A5-A2C8-28D0A2631D30",
+      "overrideName": "7D01ED3D-9A89-4F67-A6DC-DF907EC326FB_stringValue",
+      "value": "Home"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BAA9FE29-B154-4978-AA9E-E241DED58EB5",
+      "overrideName": "6F83913E-B63A-42C3-BC86-639F3588051C_stringValue",
+      "value": "Design System"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "579E2A62-8B03-4D76-8684-573653AC79EE",
+      "overrideName": "CC647C9C-E0FB-41C6-896D-5C8F8C73A94A_stringValue",
+      "value": "Components"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83FA0A81-EFE8-451D-AF3F-58EF2D1B2453",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC78BE4D-4C84-458D-B841-A1834DD28DDF",
+  "verticalSpacing": 0
+}

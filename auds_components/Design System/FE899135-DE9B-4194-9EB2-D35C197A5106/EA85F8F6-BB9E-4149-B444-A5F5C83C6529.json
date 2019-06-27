@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA85F8F6-BB9E-4149-B444-A5F5C83C6529",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2E62ABF-EC35-4ED7-9588-CD4FA98F8E7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "047531EC-1D69-4290-B0C0-55C14587FBE9",
+    "height": 42,
+    "width": 174,
+    "x": 445,
+    "y": 134
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radio Button / light / enabled checked",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05F31DA4-81A2-4EFB-BA7E-B46BBA20346F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F20CBAAD-8C9C-4A55-BE3E-FD6D15A34950",
+  "verticalSpacing": 0
+}

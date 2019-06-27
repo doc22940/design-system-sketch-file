@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A47D361F-E6CF-4AAB-ADE6-D882B408A238",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C622545-DA1F-4561-88DE-464A7E7E720A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D9D5C76-D479-42B6-BD57-ED250C5D6602",
+    "height": 36,
+    "width": 257,
+    "x": 311,
+    "y": 21
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Code block / Light",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7868DFBC-DD43-42D1-9571-7409669505DF",
+      "overrideName": "CD219657-7B2A-443B-B4FA-F90D663B7BF6_stringValue",
+      "value": "$AU-color-background-alt"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44F06C65-0FBC-49D8-916A-5A74754466D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEAA50C4-6D85-494D-8C88-6C8551B29633",
+  "verticalSpacing": 0
+}

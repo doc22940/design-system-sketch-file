@@ -1,0 +1,136 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C1F345A-048D-459A-A795-F7EE9B2A9BA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 391,
+    "width": 694,
+    "x": 8641,
+    "y": 1140
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "78E43DB8-1F87-4BAF-89EF-576D53DB9D37"
+    },
+    {
+      "class": "text",
+      "id": "BD713A94-5EF9-4842-9017-007550FFCC87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00C32CD1-4751-4A76-9718-DD8980CF31B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "049A4074-54BA-4D4F-8D13-3D3CD1CF5300"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB4FA932-1394-4DFC-9DEE-102282282ABC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12C07142-1C2E-475A-82B8-0966920BADF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00E93600-CEA3-4CA5-9EA3-1095AECE171E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDDDAF4E-63D2-44E1-98D5-C75398CC261F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C704EC8-880D-4213-A150-BC3AA333EB62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F181F0E2-7614-4502-98BB-ADA8C9AFBB78"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "649F7167-43F6-4FB7-BEB5-D5C1D55A9A5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48FF955B-EDFD-496F-8373-C919D151139B"
+    }
+  ],
+  "name": "Core -- UIKit space",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

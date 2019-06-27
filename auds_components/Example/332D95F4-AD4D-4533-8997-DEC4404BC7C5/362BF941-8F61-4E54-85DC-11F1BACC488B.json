@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "362BF941-8F61-4E54-85DC-11F1BACC488B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2428DC3F-FB95-418D-B574-0CCE820029CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FA361D5-30DE-4E15-9B04-AADD6734D0FB",
+    "height": 64,
+    "width": 137,
+    "x": 121,
+    "y": 204
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "main-nav / light / desktop item active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A32D886-05EF-4283-8DCF-380358A0FF91",
+      "overrideName": "2423C332-FAFF-4AE8-8364-4DA5A24A0BE3_stringValue",
+      "value": "Responsibilities"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A218CEE-CD4B-40EE-93F8-CAA6D3440084",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A856A7DD-BF64-491E-89F7-18C499845437",
+  "verticalSpacing": 0
+}
