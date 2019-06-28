@@ -1,5 +1,6 @@
 {
   "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 583,
+  "changeIdentifier": 584,
   "clippingMaskMode": 0,
   "do_objectID": "4C8F6A6F-6EAB-4EE2-AB84-EA4058F77ABC",
   "exportOptions": {
@@ -71,11 +72,6 @@
   "name": "Accordion / dark alt / Closed",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1B0ACD0B-2BC5-4390-ABCE-C849DEFA4DF6_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
