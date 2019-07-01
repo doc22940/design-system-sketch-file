@@ -1,7 +1,7 @@
-# Design-system-sketch-file
+# 🌵Design-system-sketch-file
 A repository for the [Design System Components](https://github.com/govau/design-system-components) Sketch file. To see more of the Design System, view the [documentation website](https://designsystem.gov.au/).
 
-## 🌵 Contributing
+## Contributing
 
 We are using Kactus for version control of our Sketch Files. To contribute, download [Kactus](https://kactus.io/) and view the starting guide.
 
