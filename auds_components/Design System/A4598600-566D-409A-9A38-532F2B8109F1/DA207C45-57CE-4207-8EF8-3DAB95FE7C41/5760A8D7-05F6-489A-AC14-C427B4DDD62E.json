@@ -31,11 +31,6 @@
   "name": "Table cell Copy 5",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "F085AEED-2479-4D86-B01F-BB86DC669EAD_layerStyle",
-      "value": "05EE2E26-C0BF-4DB3-B3ED-010B4B57D3F6"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

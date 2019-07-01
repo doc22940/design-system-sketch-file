@@ -1112,16 +1112,20 @@
       "id": "4C8F6A6F-6EAB-4EE2-AB84-EA4058F77ABC"
     },
     {
-      "class": "group",
-      "id": "C616D191-A551-4585-A4CC-E3EF31C00BDF"
-    },
-    {
       "class": "symbolMaster",
       "id": "491D6BA8-EE00-4139-8CC8-FAB6372EA24B"
     },
     {
       "class": "symbolMaster",
       "id": "8E674B6B-8F42-4F09-A8AB-A9B929EA36CC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E4B7F2A5-1E69-48AC-ADDA-66B890FEA801"
+    },
+    {
+      "class": "group",
+      "id": "C616D191-A551-4585-A4CC-E3EF31C00BDF"
     }
   ],
   "name": "Symbols",
