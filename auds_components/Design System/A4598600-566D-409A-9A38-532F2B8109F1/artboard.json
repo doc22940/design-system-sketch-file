@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 368,
-    "width": 864,
+    "width": 842,
     "x": 18428,
     "y": 3693
   },
@@ -47,11 +47,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "DA207C45-57CE-4207-8EF8-3DAB95FE7C41"
+    },
+    {
+      "class": "group",
+      "id": "FAFA9D45-D023-4D1E-A28A-2139BFFE0234"
     }
   ],
   "name": "Component --table",
