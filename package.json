@@ -4,16 +4,12 @@
   "description": "A repository for the Design System Components Sketch file",
   "main": "index.js",
   "scripts": {
-    "build": "mkdir docs && cp auds_components.sketch docs/"
+    "kactus-build": "kactus import auds_components",
+    "build": "rm -rf ./docs && mkdir ./docs &&  npm run kactus-build && cp ./auds_components.sketch ./docs/auds.sketch"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/govau/design-system-sketch-file.git"
-  },
-  "husky": {
-    "hooks": {
-      "pre-push": "npm run build"
-    }
   },
   "keywords": [],
   "author": "Sukhraj Ghuman",
@@ -23,6 +19,6 @@
   },
   "homepage": "https://github.com/govau/design-system-sketch-file#readme",
   "devDependencies": {
-    "husky": "^2.7.0"
+    "kactus-cli": "^0.5.7"
   }
 }
