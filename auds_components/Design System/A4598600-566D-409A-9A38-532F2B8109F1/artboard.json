@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -58,7 +58,7 @@
       "id": "FAFA9D45-D023-4D1E-A28A-2139BFFE0234"
     }
   ],
-  "name": "Component --table",
+  "name": "Component -- Table",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
