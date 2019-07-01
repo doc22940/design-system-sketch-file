@@ -20,7 +20,7 @@ We are using Kactus for version control of our Sketch Files. To contribute, down
 
 5. Click `Clone`
 
-### Generate Sketch file
+#### Generate Sketch file
 
 In your Kactus window, click `Regenerate Sketch file from JSON` to generate a sketch file.
 
