@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "kactus-build": "kactus import auds_components",
-    "build": "rm -rf ./public && mkdir ./public &&  npm run kactus-build && cp ./auds_components.sketch ./public/auds.sketch"
+    "copy": "cp auds_components.sketch SF-font.dmg public/auds/",
+    "make-directory": "mkdir public && mkdir public/auds",
+    "zip": "bestzip public/auds.zip public/auds/* && rm -rf public/auds/",
+    "build": "npm run kactus-build && npm run make-directory && zip"
   },
   "repository": {
     "type": "git",
@@ -19,6 +22,7 @@
   },
   "homepage": "https://github.com/govau/design-system-sketch-file#readme",
   "devDependencies": {
+    "bestzip": "^2.1.4",
     "kactus-cli": "^0.5.7"
   }
 }
