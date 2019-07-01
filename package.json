@@ -1,0 +1,28 @@
+{
+  "name": "design-system-sketch-file",
+  "version": "1.0.0",
+  "description": "A repository for the Design System Components Sketch file",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir docs && cp auds_components.sketch docs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govau/design-system-sketch-file.git"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm build"
+    }
+  },
+  "keywords": [],
+  "author": "Sukhraj Ghuman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/govau/design-system-sketch-file/issues"
+  },
+  "homepage": "https://github.com/govau/design-system-sketch-file#readme",
+  "devDependencies": {
+    "husky": "^2.7.0"
+  }
+}
