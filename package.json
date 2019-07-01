@@ -1,5 +1,6 @@
 {
   "name": "design-system-sketch-file",
+  "author": "Sukhraj Ghuman",
   "version": "1.0.0",
   "description": "A repository for the Design System Components Sketch file",
   "main": "index.js",
@@ -15,7 +16,6 @@
     "url": "git+https://github.com/govau/design-system-sketch-file.git"
   },
   "keywords": [],
-  "author": "Sukhraj Ghuman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/govau/design-system-sketch-file/issues"
@@ -24,5 +24,17 @@
   "devDependencies": {
     "bestzip": "^2.1.4",
     "kactus-cli": "^0.5.7"
+  },
+  "contributors": [
+  {
+    "name": "Sukhraj Ghuman",
+    "email": "sukhrajghuman@live.com",
+    "url": "https://github.com/sukhrajghuman"
+  },
+  {
+    "name": "Kiri Hoy",
+    "email": "kiri.hoy@digital.gov.au",
+    "url": "https://github.com/kirihoy"
   }
+]
 }
