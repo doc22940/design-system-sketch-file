@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "kactus-build": "kactus import auds_components",
-    "build": "rm -rf ./docs && mkdir ./docs &&  npm run kactus-build && cp ./auds_components.sketch ./docs/auds.sketch"
+    "build": "rm -rf ./public && mkdir ./public &&  npm run kactus-build && cp ./auds_components.sketch ./public/auds.sketch"
   },
   "repository": {
     "type": "git",
