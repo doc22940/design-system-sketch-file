@@ -1,4 +1,4 @@
-# 🌵Design-system-sketch-file
+# Design-system-sketch-file 🌵
 A repository for the [Design System Components](https://github.com/govau/design-system-components) Sketch file. To see more of the Design System, view the [documentation website](https://designsystem.gov.au/).
 
 ## Contributing
