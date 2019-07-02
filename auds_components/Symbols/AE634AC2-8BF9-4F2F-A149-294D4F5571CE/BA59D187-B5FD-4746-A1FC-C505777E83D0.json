@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Card body"
+    "string": "Card body text"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 56,
+    "width": 79,
     "x": 21,
-    "y": 79
+    "y": 82
   },
-  "glyphBounds": "{{0, 2}, {56, 12}}",
+  "glyphBounds": "{{0, 2}, {78, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "card body",
   "nameIsFixed": true,
-  "resizingConstraint": 43,
+  "resizingConstraint": 35,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
