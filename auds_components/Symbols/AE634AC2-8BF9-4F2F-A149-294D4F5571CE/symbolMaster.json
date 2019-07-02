@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 241,
   "clippingMaskMode": 0,
   "do_objectID": "AE634AC2-8BF9-4F2F-A149-294D4F5571CE",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 122,
-    "width": 387,
+    "height": 112,
+    "width": 376,
     "x": 26207,
     "y": -73
   },
@@ -55,13 +55,31 @@
     {
       "class": "rectangle",
       "id": "7BB1798E-7248-420B-94CC-058A3CA37FD2"
+    },
+    {
+      "class": "text",
+      "id": "2B79822D-960D-4A1F-BBF8-96F44CEBC990"
+    },
+    {
+      "class": "text",
+      "id": "BA59D187-B5FD-4746-A1FC-C505777E83D0"
     }
   ],
   "name": "Card / light / body",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2B79822D-960D-4A1F-BBF8-96F44CEBC990_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BA59D187-B5FD-4746-A1FC-C505777E83D0_stringValue"
+    }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

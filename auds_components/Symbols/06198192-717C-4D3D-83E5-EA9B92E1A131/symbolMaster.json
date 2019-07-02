@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 28,
   "clippingMaskMode": 0,
   "do_objectID": "06198192-717C-4D3D-83E5-EA9B92E1A131",
   "exportOptions": {
@@ -50,15 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6B5818AC-E3CF-468E-82D1-57263567E15F"
+      "class": "text",
+      "id": "83D446E4-35C5-4444-A874-FA08CDD2326E"
     }
   ],
-  "name": "Card / light / inner",
-  "nameIsFixed": false,
+  "name": "Card / light / header",
+  "nameIsFixed": true,
   "overrideProperties": [
   ],
   "resizesContent": false,
