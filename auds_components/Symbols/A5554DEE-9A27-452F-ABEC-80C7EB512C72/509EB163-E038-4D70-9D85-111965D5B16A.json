@@ -28,16 +28,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 18,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Feature card title"
+    "string": "Card footer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4704D3DA-25D8-4725-861E-3E88C819BCAA",
+  "do_objectID": "509EB163-E038-4D70-9D85-111965D5B16A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 162,
-    "x": -1035,
-    "y": -222
+    "width": 108,
+    "x": 139,
+    "y": 17
   },
-  "glyphBounds": "{{1, 4}, {160, 16}}",
+  "glyphBounds": "{{0, 4}, {108, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,9 +65,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Feature card title",
+  "name": "Card footer",
   "nameIsFixed": false,
-  "resizingConstraint": 11,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

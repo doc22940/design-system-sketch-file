@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica-Bold",
-              "size": 16
+              "size": 20
             }
           },
           "kerning": 0,
@@ -28,20 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Card title"
+    "string": "Card footer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "45C73F06-DC72-4F0E-B637-EFDA40F4F5A8",
+  "do_objectID": "6A28A51A-5148-431F-93BB-43D221B84307",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BD7900FF-DE1D-4ABF-8676-1D81D464A3DC",
+    "do_objectID": "04C3AA44-770E-461C-A381-4204F52D5B71",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F93A211F-B910-405C-AA6B-AE50836D0202",
-    "height": 19,
-    "width": 341,
-    "x": 16,
-    "y": 16
+    "do_objectID": "57ED4790-5DCA-4128-89A0-043DCE36782D",
+    "height": 24,
+    "width": 108,
+    "x": 140,
+    "y": 17
   },
-  "glyphBounds": "{{0, 3}, {69, 13}}",
+  "glyphBounds": "{{0, 4}, {108, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,52 +67,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "card title",
-  "nameIsFixed": true,
-  "resizingConstraint": 27,
+  "name": "Card footer",
+  "nameIsFixed": false,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1210FA6B-3656-4C8F-AE26-778988A57085",
+    "do_objectID": "11191599-9E4F-41FC-A9B3-5A08B2F2DE2C",
     "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0AC8FEE7-B9E8-441E-BD7E-0ACFA3489768",
+      "do_objectID": "8C6FA172-2D3A-45A7-9BD8-32A996A00911",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica-Bold",
-            "size": 16
+            "size": 20
           }
         },
         "kerning": 0,
@@ -127,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

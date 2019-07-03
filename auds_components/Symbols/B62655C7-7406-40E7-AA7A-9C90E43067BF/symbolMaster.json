@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 4,
   "clippingMaskMode": 0,
-  "do_objectID": "30ED960B-4495-4B28-BF05-93612F53FD3B",
+  "do_objectID": "B62655C7-7406-40E7-AA7A-9C90E43067BF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +27,7 @@
     "height": 57,
     "width": 385,
     "x": 26916,
-    "y": 633
+    "y": 1104
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,8 +50,16 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "30214223-6EBE-4124-8A03-87F5848C150D"
+    },
+    {
+      "class": "text",
+      "id": "52D21D15-D50E-4E76-93E9-F0762756DD7C"
+    }
   ],
   "name": "Card / light / header",
   "nameIsFixed": false,
@@ -59,7 +67,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "0B770A11-1B59-442F-BD8F-C4AF2DD8D554_layerStyle"
+      "overrideName": "30214223-6EBE-4124-8A03-87F5848C150D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52D21D15-D50E-4E76-93E9-F0762756DD7C_stringValue"
     }
   ],
   "resizesContent": false,
@@ -74,7 +87,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "45F6BE9A-1B4F-4BC8-9908-20F6970E8E4A",
+  "symbolID": "B40411D3-8F76-43F9-B257-74EADCCBF6BB",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

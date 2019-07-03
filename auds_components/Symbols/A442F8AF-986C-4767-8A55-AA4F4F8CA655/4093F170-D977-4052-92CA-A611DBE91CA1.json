@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "56B81E14-7406-4AF8-9750-75D8C2B803A7",
+  "do_objectID": "4093F170-D977-4052-92CA-A611DBE91CA1",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D54B8773-DD3A-4897-B6F4-0FCC4BDA8EDF",
+    "do_objectID": "C299D502-2DEE-4698-B906-788B4300EB0A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,13 +14,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 3,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "87C65046-D501-49CD-848E-51C7B51DDB8A",
-    "height": 112,
-    "width": 376,
+    "do_objectID": "57A4D04B-BE96-4A02-B68B-0D17F75FBF1D",
+    "height": 57,
+    "width": 385,
     "x": 0,
     "y": 0
   },
@@ -39,7 +39,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 3,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 3,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 3,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 3,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -81,6 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "E077A33D-6CB7-478A-B5D8-346902348251",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -100,7 +101,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "62D55509-3B1D-4308-B980-2E6B7A7249F4",
+    "do_objectID": "E9359364-5721-487A-B6AD-C2B504433ECF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +109,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.9215686274509803,
+          "green": 0.9215686274509803,
+          "red": 0.9215686274509803
         },
         "fillType": 0,
         "isEnabled": true,
@@ -120,51 +121,7 @@
         "patternTileScale": 1
       }
     ],
-    "innerShadows": [
-      {
-        "_class": "innerShadow",
-        "blurRadius": 3,
-        "color": {
-          "_class": "color",
-          "alpha": 0.3,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 1,
-        "spread": 0
-      }
-    ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.03,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

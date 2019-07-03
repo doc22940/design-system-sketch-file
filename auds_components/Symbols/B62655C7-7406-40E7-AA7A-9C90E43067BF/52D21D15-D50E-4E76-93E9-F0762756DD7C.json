@@ -55,8 +55,8 @@
     "do_objectID": "FEBF3321-9797-4806-B506-893215C54DD7",
     "height": 24,
     "width": 162,
-    "x": 25876,
-    "y": -57
+    "x": 112,
+    "y": 16
   },
   "glyphBounds": "{{1, 4}, {160, 16}}",
   "hasClippingMask": false,
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Feature card title",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
