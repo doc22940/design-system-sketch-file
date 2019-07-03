@@ -1149,35 +1149,11 @@
     },
     {
       "class": "symbolMaster",
-      "id": "EEC9D3A8-6BDB-4D70-99EA-5D753E982729"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "A76D62EF-C85E-4873-8E11-1505106DFE76"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "B50A0141-2C21-4B17-A384-F5B4BA7D92DC"
-    },
-    {
-      "class": "symbolMaster",
       "id": "B62655C7-7406-40E7-AA7A-9C90E43067BF"
     },
     {
       "class": "symbolMaster",
       "id": "A5554DEE-9A27-452F-ABEC-80C7EB512C72"
-    },
-    {
-      "class": "group",
-      "id": "04987707-7D3C-4ED1-9687-FD290B3DC199"
-    },
-    {
-      "class": "rectangle",
-      "id": "AC29957E-568A-43E3-827F-5BEAF27E407D"
-    },
-    {
-      "class": "group",
-      "id": "A442F8AF-986C-4767-8A55-AA4F4F8CA655"
     }
   ],
   "name": "Symbols",
