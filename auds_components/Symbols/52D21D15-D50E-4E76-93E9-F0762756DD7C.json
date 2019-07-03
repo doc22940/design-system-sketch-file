@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 12
+              "name": "Helvetica-Bold",
+              "size": 20
             }
           },
           "kerning": 0,
@@ -28,19 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Card body text"
+    "string": "Feature card title"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BA59D187-B5FD-4746-A1FC-C505777E83D0",
+  "do_objectID": "52D21D15-D50E-4E76-93E9-F0762756DD7C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "13C1D0FC-C30C-411E-A148-223D03CDA160",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 79,
-    "x": 21,
-    "y": 82
+    "do_objectID": "FEBF3321-9797-4806-B506-893215C54DD7",
+    "height": 24,
+    "width": 162,
+    "x": 25876,
+    "y": -57
   },
-  "glyphBounds": "{{0, 2}, {78, 12}}",
+  "glyphBounds": "{{1, 4}, {160, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,14 +67,15 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "card body",
-  "nameIsFixed": true,
-  "resizingConstraint": 35,
+  "name": "Feature card title",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "DDC0CD74-DDBE-47D6-B7D2-61FEE00B69E9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -89,8 +92,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
-            "size": 12
+            "name": "Helvetica-Bold",
+            "size": 20
           }
         },
         "kerning": 0,

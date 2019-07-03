@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 137,
+  "changeIdentifier": 86,
   "clippingMaskMode": 0,
-  "do_objectID": "06198192-717C-4D3D-83E5-EA9B92E1A131",
+  "do_objectID": "B53CC12B-B889-4776-89A0-AB3F8230BEEB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
+    "height": 57,
     "width": 385,
-    "x": 26694,
-    "y": -73
+    "x": 26916,
+    "y": 319
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -53,15 +53,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "B2CAA6D9-9A23-4D28-8219-3E3CB895A4B6"
+    },
+    {
       "class": "text",
-      "id": "83D446E4-35C5-4444-A874-FA08CDD2326E"
+      "id": "4704D3DA-25D8-4725-861E-3E88C819BCAA"
     }
   ],
-  "name": "Card / light / header",
-  "nameIsFixed": true,
+  "name": "Card / dark / header",
+  "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "649C53A7-7CA0-41AD-AFBD-8EFC723F6D45_symbolID"
+    }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -73,7 +82,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "07CA072E-AC21-45A5-9771-29525F7609BB",
+  "symbolID": "3D14A399-735F-4057-88CA-6D7292661DC6",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
