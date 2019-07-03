@@ -37,7 +37,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3477393C-505E-4B0E-9987-B8B968DAFC2D",
+  "do_objectID": "0028AA28-8AEE-4573-9464-3A696B4CECBD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,8 +53,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 104,
-    "x": 145,
-    "y": 16
+    "x": 141,
+    "y": 15
   },
   "glyphBounds": "{{1, 4}, {102, 16}}",
   "hasClippingMask": false,
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Footer text",
   "nameIsFixed": false,
-  "resizingConstraint": 15,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

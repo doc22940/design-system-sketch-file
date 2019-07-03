@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 124,
+  "changeIdentifier": 190,
   "clippingMaskMode": 0,
-  "do_objectID": "A48172DB-7BA1-4FB1-AD70-AC15D64DCD68",
+  "do_objectID": "44CCFE08-1DE4-483D-A310-05ABE21FD4CE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 57,
+    "height": 53,
     "width": 385,
-    "x": 25770,
+    "x": 26170,
     "y": 11
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,28 +54,28 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "26FF7EE4-040A-4093-9EF9-A099D296D045"
+      "id": "C0CF3800-0E94-41F2-920E-91669066D19B"
     },
     {
       "class": "text",
-      "id": "26335268-5559-4A46-8B3F-864A1933C906"
+      "id": "0028AA28-8AEE-4573-9464-3A696B4CECBD"
     }
   ],
-  "name": "Card / alt / header",
-  "nameIsFixed": true,
+  "name": "Card / alt / footer",
+  "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "26335268-5559-4A46-8B3F-864A1933C906_stringValue"
+      "overrideName": "C0CF3800-0E94-41F2-920E-91669066D19B_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "26FF7EE4-040A-4093-9EF9-A099D296D045_layerStyle"
+      "overrideName": "0028AA28-8AEE-4573-9464-3A696B4CECBD_stringValue"
     }
   ],
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -87,7 +87,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C231449D-5E79-48B7-90E1-E6E12CD0961A",
+  "symbolID": "23A684F5-65D3-4881-B4BE-4BCCEA5AD822",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
