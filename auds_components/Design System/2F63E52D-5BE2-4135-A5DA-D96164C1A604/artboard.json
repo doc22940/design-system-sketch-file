@@ -47,11 +47,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "769FB98B-CB3A-4617-BF7F-D3DE68FD034F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82241A0B-FEEB-4D20-BE79-E51EDCA3570E"
     }
   ],
   "name": "Custom Preset",
