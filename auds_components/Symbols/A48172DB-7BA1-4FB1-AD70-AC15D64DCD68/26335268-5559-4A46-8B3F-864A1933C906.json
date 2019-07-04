@@ -51,10 +51,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 162,
-    "x": 117,
-    "y": 17
+    "height": 29,
+    "width": 163,
+    "x": 107,
+    "y": 14
   },
   "glyphBounds": "{{1, 4}, {160, 16}}",
   "hasClippingMask": false,
@@ -105,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }
