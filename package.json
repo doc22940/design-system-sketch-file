@@ -9,7 +9,7 @@
     "copy": "cp auds_components.sketch SF-font.dmg public/auds/",
     "make-directory": "mkdir public && mkdir public/auds",
     "zip": "bestzip public/auds.zip public/auds/* && rm -rf public/auds/",
-    "build": "npm run kactus-build && npm run make-directory && zip"
+    "build": "rm -rf public && npm run kactus-build && npm run make-directory && npm run copy && npm run zip"
   },
   "repository": {
     "type": "git",
