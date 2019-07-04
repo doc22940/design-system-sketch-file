@@ -54,7 +54,7 @@
     "constrainProportions": false,
     "do_objectID": "F93A211F-B910-405C-AA6B-AE50836D0202",
     "height": 38,
-    "width": 341,
+    "width": 344,
     "x": 16,
     "y": 16
   },
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 2,
   "name": "card title",
   "nameIsFixed": true,
-  "resizingConstraint": 27,
+  "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

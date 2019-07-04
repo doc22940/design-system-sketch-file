@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "baseWritingDirection": 0
           },
           "textStyleVerticalAlignmentKey": 0
@@ -54,7 +54,7 @@
     "constrainProportions": false,
     "do_objectID": "5890B963-3A7E-4753-BCF6-1364BFE22BA6",
     "height": 38,
-    "width": 139,
+    "width": 344,
     "x": 16,
     "y": 16
   },
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 2,
   "name": "card title",
   "nameIsFixed": true,
-  "resizingConstraint": 11,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -118,7 +118,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "baseWritingDirection": 0
         },
         "textStyleVerticalAlignmentKey": 0
@@ -127,5 +127,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

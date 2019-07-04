@@ -53,9 +53,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FEBF3321-9797-4806-B506-893215C54DD7",
-    "height": 24,
-    "width": 170,
-    "x": 103,
+    "height": 25,
+    "width": 344,
+    "x": 16,
     "y": 16
   },
   "glyphBounds": "{{1, 4}, {160, 16}}",

@@ -51,10 +51,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
-    "width": 163,
-    "x": 107,
-    "y": 14
+    "height": 25,
+    "width": 344,
+    "x": 16,
+    "y": 16
   },
   "glyphBounds": "{{1, 4}, {160, 16}}",
   "hasClippingMask": false,
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Feature card title",
   "nameIsFixed": false,
-  "resizingConstraint": 39,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 218,
+  "changeIdentifier": 253,
   "clippingMaskMode": 0,
   "do_objectID": "44CCFE08-1DE4-483D-A310-05ABE21FD4CE",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "0028AA28-8AEE-4573-9464-3A696B4CECBD"
     }
   ],
-  "name": "Card / light /alt / footer",
+  "name": "Card / alt / footer",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -75,7 +75,7 @@
       "overrideName": "0028AA28-8AEE-4573-9464-3A696B4CECBD_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

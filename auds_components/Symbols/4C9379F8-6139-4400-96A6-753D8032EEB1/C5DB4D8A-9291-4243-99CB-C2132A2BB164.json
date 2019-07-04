@@ -54,9 +54,9 @@
     "constrainProportions": false,
     "do_objectID": "A47543B6-031E-4451-8789-908FE6E76445",
     "height": 19,
-    "width": 105,
+    "width": 344,
     "x": 16,
-    "y": 78
+    "y": 77
   },
   "glyphBounds": "{{0, 3}, {104, 16}}",
   "hasClippingMask": false,
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 2,
   "name": "card body",
   "nameIsFixed": true,
-  "resizingConstraint": 34,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

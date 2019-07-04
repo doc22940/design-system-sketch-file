@@ -54,9 +54,9 @@
     "constrainProportions": false,
     "do_objectID": "C279D5D7-3269-44CD-AF39-4C405DB4034B",
     "height": 19,
-    "width": 105,
+    "width": 344,
     "x": 16,
-    "y": 76
+    "y": 77
   },
   "glyphBounds": "{{0, 3}, {104, 16}}",
   "hasClippingMask": false,
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 2,
   "name": "card body",
   "nameIsFixed": true,
-  "resizingConstraint": 35,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -109,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

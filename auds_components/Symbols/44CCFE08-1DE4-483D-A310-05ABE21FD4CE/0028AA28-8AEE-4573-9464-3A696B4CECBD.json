@@ -51,10 +51,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 104,
-    "x": 136,
-    "y": 17
+    "height": 25,
+    "width": 344,
+    "x": 16,
+    "y": 16
   },
   "glyphBounds": "{{1, 4}, {102, 16}}",
   "hasClippingMask": false,
@@ -67,7 +67,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Footer text",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -105,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }
