@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "769FB98B-CB3A-4617-BF7F-D3DE68FD034F",
+  "do_objectID": "5D3D3DC1-E3B4-4260-A419-5E8A89B31521",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 112,
     "width": 376,
-    "x": 76,
-    "y": 41
+    "x": 474,
+    "y": 238
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Card / light / body",
+  "name": "Card / light /  shadow / body",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "ADB79351-2EB6-4F62-BA8F-B1F063003512",
+  "symbolID": "B1ADD78A-FF3B-47DD-9ACE-1BC9B9E7C95D",
   "verticalSpacing": 0
 }
