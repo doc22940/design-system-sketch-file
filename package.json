@@ -6,9 +6,9 @@
   "main": "index.js",
   "scripts": {
     "kactus-build": "kactus import auds_components",
-    "copy": "cp auds_components.sketch public/auds/",
-    "make-directory": "mkdir public && mkdir public/auds",
-    "zip": "bestzip public/auds.zip public/auds/* && rm -rf public/auds/",
+    "copy": "cp auds_components.sketch public/",
+    "make-directory": "mkdir public",
+    "zip": "cd public && bestzip auds.zip ./* && rm -rf ./auds_components.sketch",
     "build": "rm -rf public && npm run kactus-build && npm run make-directory && npm run copy && npm run zip"
   },
   "repository": {
