@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1476,
+  "changeIdentifier": 2580,
   "clippingMaskMode": 0,
   "do_objectID": "7DAD562F-7D82-4C54-960E-EF767D78509F",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "370B1499-7D50-41EA-96E9-5DC36C7112AB",
     "height": 96,
     "width": 300,
-    "x": 22503,
-    "y": 146
+    "x": 23291,
+    "y": 134
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "E50CE827-59A5-46C1-B8C0-5A985F34F2DB"
     }
   ],
-  "name": "textarea / dark / enabled",
+  "name": "Textarea / dark / Enabled",
   "nameIsFixed": true,
   "overrideProperties": [
     {

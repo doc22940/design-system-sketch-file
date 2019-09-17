@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1411,
+  "changeIdentifier": 1512,
   "clippingMaskMode": 0,
   "do_objectID": "D3C7D837-2D2F-4995-B303-FCCA7B7DC04F",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "41D0470B-BF81-4F4D-A17D-E1F8ACD2C392",
     "height": 32,
     "width": 359,
-    "x": 6976,
-    "y": 0
+    "x": 6703,
+    "y": 6
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -65,7 +65,7 @@
       "id": "E3459BE3-935A-4415-8366-4DBA746CAD1F"
     }
   ],
-  "name": "cta-link / dark",
+  "name": "CTA link / dark",
   "nameIsFixed": true,
   "overrideProperties": [
     {

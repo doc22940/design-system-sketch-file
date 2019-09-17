@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 194,
+  "changeIdentifier": 1052,
   "clippingMaskMode": 0,
   "do_objectID": "A009EF3D-D1C6-453C-84C8-2FAF4CD484E4",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "EF3A3B54-CBAF-440A-84C7-ED3330879095",
     "height": 24,
     "width": 24,
-    "x": 23803,
-    "y": 2268
+    "x": 24445,
+    "y": 2262
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,14 +61,9 @@
       "id": "501728A2-C085-4593-96E6-7FF185C20D91"
     }
   ],
-  "name": "z - utility / icon / progress-indicator / dark / todo",
+  "name": "Z utility / icon / progress-indicator / dark / Todo",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "501728A2-C085-4593-96E6-7FF185C20D91_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

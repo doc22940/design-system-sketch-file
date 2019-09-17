@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1889,
+  "changeIdentifier": 2565,
   "clippingMaskMode": 0,
   "do_objectID": "AC69B25C-00DC-40FD-8C95-2B0611F3DFC7",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "0FB2C734-2907-42D1-A0ED-45659B62F1CA",
     "height": 42,
     "width": 174,
-    "x": 18073,
-    "y": 92
+    "x": 16819,
+    "y": 98
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -77,7 +77,7 @@
       "id": "5B9F2286-9B6E-4E36-B033-5608B14C93B1"
     }
   ],
-  "name": "Radio Button / light / disabled unchecked",
+  "name": "Radio button / light / Disabled unchecked",
   "nameIsFixed": true,
   "overrideProperties": [
     {

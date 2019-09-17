@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "logo / coa-black",
-  "nameIsFixed": false,
+  "name": "Logo / coa-black",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 9,

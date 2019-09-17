@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 105,
+  "changeIdentifier": 969,
   "clippingMaskMode": 0,
   "do_objectID": "0436B847-3557-4FBB-AD1C-BC25BE64BDEF",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 23803,
-    "y": 1898
+    "x": 24445,
+    "y": 1892
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "CA3D7B6C-D9C3-4E5C-AF7A-36D5E0E158DE"
     }
   ],
-  "name": "z - utility / icon / info fill dark",
+  "name": "Z utility / icon / Info fill dark",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

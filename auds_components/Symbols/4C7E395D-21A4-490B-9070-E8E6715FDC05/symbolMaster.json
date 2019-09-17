@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 329,
+  "changeIdentifier": 1191,
   "clippingMaskMode": 0,
   "do_objectID": "4C7E395D-21A4-490B-9070-E8E6715FDC05",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "B422D28D-2E0E-406D-8E41-6CF7FAA59646",
     "height": 38,
     "width": 38,
-    "x": 23803,
-    "y": 3444
+    "x": 24445,
+    "y": 3438
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -73,7 +73,7 @@
       "id": "85D914AA-67E1-4D77-9686-085375183F84"
     }
   ],
-  "name": "z - utility / icon / radio / light alt / enabled checked",
+  "name": "Z utility / icon / radio / light / Alt / Enabled checked",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -84,22 +84,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1DC79EA3-7CAA-4E2D-AD49-A4F9771C3129_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2CA64E94-A81F-4A26-B83C-AF35470A8C25_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "2CA64E94-A81F-4A26-B83C-AF35470A8C25_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "84D3F6F1-D913-4223-8C59-393E91E8FA50_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 332,
+  "changeIdentifier": 1197,
   "clippingMaskMode": 0,
   "do_objectID": "EC7665A8-5B38-4928-A014-66166FE5F568",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "D8BC9B52-A80E-407E-B1FF-811DAB67D6F3",
     "height": 38,
     "width": 38,
-    "x": 23803,
-    "y": 648
+    "x": 24445,
+    "y": 641.9999999999998
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -69,18 +69,13 @@
       "id": "4ADFB92E-B1AE-48D2-9F36-4088FA6D9A09"
     }
   ],
-  "name": "z - utility / icon / checkbox / dark / enabled checked",
+  "name": "Z utility / icon / checkbox / dark / Enabled checked",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "AC012EB5-7055-47E5-B1A3-4065740AA78C_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EDD9D7E5-50C6-4B43-9470-CCA8B8BF261E_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -96,21 +91,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "6C11F720-90D7-400A-83F9-BC1B5E2B77E0_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "972FE373-6346-4AF8-A69B-851458C1CA76_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6C11F720-90D7-400A-83F9-BC1B5E2B77E0_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AC012EB5-7055-47E5-B1A3-4065740AA78C_image"
     }
   ],
   "resizesContent": false,

@@ -39,8 +39,8 @@
       "id": "EDD9D7E5-50C6-4B43-9470-CCA8B8BF261E"
     }
   ],
-  "name": "checkbox-icon",
-  "nameIsFixed": false,
+  "name": "Checkbox icon",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

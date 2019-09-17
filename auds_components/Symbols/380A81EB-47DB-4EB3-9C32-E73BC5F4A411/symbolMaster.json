@@ -1,0 +1,106 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3B5C6B1E-A1BB-44D3-BDD2-572EDFE3EA30",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2838,
+  "clippingMaskMode": 0,
+  "do_objectID": "380A81EB-47DB-4EB3-9C32-E73BC5F4A411",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "932D38E3-570E-4F93-88E4-98CEBE98B0BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DA67CF3-2AA4-4878-8A82-8B5B8FFC6431",
+    "height": 46,
+    "width": 348,
+    "x": 18882,
+    "y": 0.9999999999999929
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8AB4BF22-485F-4799-B400-41A2D51D276B"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2B7BA085-534D-4C7A-AC91-1FC15CBC0076",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9C0F30C3-9677-464E-B596-33D18A8AA94F"
+    },
+    {
+      "class": "rectangle",
+      "id": "137777A3-F4A1-4550-9210-9F25E017C777"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C432596C-18F2-407F-B1B2-743C6D0D125A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5571C231-9AA6-40BE-AEFB-7499F65738B3"
+    },
+    {
+      "class": "group",
+      "id": "8BC6EC30-3836-4510-812E-05B60D4EAF03"
+    }
+  ],
+  "name": "Search box responsive / light / Default",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49A4C155-C1F6-428E-A24F-13E7037F4548",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2EFF3EEE-2D03-4A50-8B56-9B2614E8FF3E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FB1DF0FF-C44E-492A-B9C6-165E0BB94EA4",
+    "guides": [
+    ]
+  }
+}

@@ -27,9 +27,9 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "icon / progress-indicator__todo",
-  "nameIsFixed": false,
+  "layerListExpandedType": 2,
+  "name": "Icon / Progress indicator todo",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

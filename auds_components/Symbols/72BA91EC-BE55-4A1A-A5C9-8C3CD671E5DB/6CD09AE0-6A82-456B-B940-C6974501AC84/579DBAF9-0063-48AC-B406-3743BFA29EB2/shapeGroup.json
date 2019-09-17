@@ -41,8 +41,8 @@
       "id": "2F050128-FADA-48BA-9211-C38A9D30AB2D"
     }
   ],
-  "name": "Shape Copy 18",
-  "nameIsFixed": false,
+  "name": "Shape 2",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 16,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "textarea / light"
+    "string": "Text area / light"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 132,
-    "x": 23003,
-    "y": 0
+    "width": 136,
+    "x": 24843,
+    "y": 7.000000000000014
   },
-  "glyphBounds": "{{0, 4}, {131, 19}}",
+  "glyphBounds": "{{0, 2}, {136, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,8 +64,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textarea / light",
-  "nameIsFixed": false,
+  "name": "Text area / light",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
@@ -90,7 +90,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Bold",
+            "name": "Helvetica",
             "size": 20
           }
         },

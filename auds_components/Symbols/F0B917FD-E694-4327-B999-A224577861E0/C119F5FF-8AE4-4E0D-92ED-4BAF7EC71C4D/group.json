@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -41,7 +41,7 @@
       "id": "91544A74-79B3-41A0-A7E7-0D26EBD76A4B"
     }
   ],
-  "name": "icon",
+  "name": "Icon",
   "nameIsFixed": true,
   "resizingConstraint": 41,
   "resizingType": 0,

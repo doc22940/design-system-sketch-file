@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "text-input / light"
+    "string": "Text input / light"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 147,
-    "x": 22136,
-    "y": 0
+    "width": 139,
+    "x": 24075,
+    "y": 7.000000000000028
   },
-  "glyphBounds": "{{0, 4}, {147, 19}}",
+  "glyphBounds": "{{0, 2}, {139, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,8 +64,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "text-input / light",
-  "nameIsFixed": false,
+  "name": "Text input / light",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,

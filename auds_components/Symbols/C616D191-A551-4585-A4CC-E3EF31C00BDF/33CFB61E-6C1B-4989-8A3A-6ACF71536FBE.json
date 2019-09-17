@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "tags / light"
+    "string": "Tags / light"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -52,10 +52,10 @@
     "constrainProportions": false,
     "height": 24,
     "width": 96,
-    "x": 21498,
-    "y": 0
+    "x": 23538,
+    "y": 7
   },
-  "glyphBounds": "{{0, 4}, {96, 19}}",
+  "glyphBounds": "{{0, 2}, {96, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "tags / light",
+  "name": "Tags / light",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

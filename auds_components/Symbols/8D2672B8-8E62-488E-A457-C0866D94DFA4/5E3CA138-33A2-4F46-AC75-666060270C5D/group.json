@@ -32,15 +32,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",
       "id": "751732B6-9CB8-447A-9A3A-0D96D0FE1003"
     }
   ],
-  "name": "radio-icon",
-  "nameIsFixed": false,
+  "name": "Radio icon",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

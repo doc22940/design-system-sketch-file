@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 178,
+  "changeIdentifier": 556,
   "clippingMaskMode": 0,
   "do_objectID": "8F279742-647F-4A20-A4E5-DEA45B519BAC",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 46,
     "width": 165,
-    "x": 3615,
-    "y": 0
+    "x": 2163,
+    "y": 8.000000000000028
   },
   "grid": {
     "_class": "simpleGrid",
@@ -66,6 +66,10 @@
     {
       "class": "text",
       "id": "B68E9162-7701-44C4-A98C-F4CD2203EC67"
+    },
+    {
+      "class": "text",
+      "id": "9ACDD7A8-26B8-42C0-A22A-9B548432C64D"
     }
   ],
   "name": "Buttons / light / Primary / Default",
@@ -75,6 +79,16 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "B68E9162-7701-44C4-A98C-F4CD2203EC67_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9ACDD7A8-26B8-42C0-A22A-9B548432C64D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9ACDD7A8-26B8-42C0-A22A-9B548432C64D_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -9,7 +9,7 @@
     "red": 0.07450980392156865
   },
   "booleanOperation": 0,
-  "changeIdentifier": 151,
+  "changeIdentifier": 1009,
   "clippingMaskMode": 0,
   "do_objectID": "1A5117C7-6922-461E-BBA6-E2439E9A531B",
   "exportOptions": {
@@ -28,14 +28,14 @@
     "do_objectID": "FD7270D6-7700-4131-A2C1-F0F48ACB7681",
     "height": 22,
     "width": 22,
-    "x": 23803,
-    "y": 3972
+    "x": 24445,
+    "y": 3966
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,14 +53,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "C9B85390-7574-440C-9A29-0BAC1108A7AA"
     }
   ],
-  "name": "z - utility / icon / star",
+  "name": "Z utility / icon / Star",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

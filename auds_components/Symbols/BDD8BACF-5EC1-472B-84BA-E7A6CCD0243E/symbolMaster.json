@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 816,
+  "changeIdentifier": 1902,
   "clippingMaskMode": 0,
   "do_objectID": "BDD8BACF-5EC1-472B-84BA-E7A6CCD0243E",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 46,
     "width": 167,
-    "x": 22136,
-    "y": 96
+    "x": 22974,
+    "y": 85.99999999999997
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -61,7 +61,7 @@
       "id": "271B1FB5-D232-4A83-8DDA-B59E2E6C5E87"
     }
   ],
-  "name": "text-input / light / enabled",
+  "name": "Text-input / light / Enabled",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6EEE369-4DBD-416D-9C26-7B7B052C6483",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BAD671C-96DE-456D-B885-3275A99C662D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B93F6DE-260F-4728-810D-1F56752E4CD1",
+    "height": 30,
+    "width": 30,
+    "x": 732,
+    "y": 129
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "95BCD6AB-656B-4D10-BC18-AA267AD171F9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4533BFD5-7FBC-47CD-8195-52C0882CEA5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "CED66BF4-AA87-4F9B-97F3-BB8E2575174A"
+    }
+  ],
+  "name": "Maginifying Dark",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF5D05EA-0900-47FC-94A2-034031ADCC24",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

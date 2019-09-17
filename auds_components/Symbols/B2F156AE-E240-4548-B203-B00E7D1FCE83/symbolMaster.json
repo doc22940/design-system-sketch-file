@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 229,
+  "changeIdentifier": 1088,
   "clippingMaskMode": 0,
   "do_objectID": "B2F156AE-E240-4548-B203-B00E7D1FCE83",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "8B9FF1CA-9E22-4DCC-B1B3-779A5C466AF6",
     "height": 24,
     "width": 24,
-    "x": 23803,
-    "y": 2342
+    "x": 24445,
+    "y": 2336
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,14 +65,9 @@
       "id": "7EE0A97E-D1C2-416A-80FB-FD2E64D79A69"
     }
   ],
-  "name": "z - utility / icon / progress-indicator / light / doing",
+  "name": "Z utility / icon / progress-indicator / light / Doing",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "434980B6-B9B8-4542-97E8-D5F169526BD2_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -82,21 +77,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "434980B6-B9B8-4542-97E8-D5F169526BD2_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CF66DCBF-E9A7-4448-90C7-3EAF0B25594E_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "ED2883AD-D585-42EA-BC1B-CC391138A542_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "20F37896-2DFA-41CB-BFCC-E173C9D92852_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

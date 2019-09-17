@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 13,
+  "changeIdentifier": 521,
   "clippingMaskMode": 0,
   "do_objectID": "38E5F9ED-4DB4-4275-AE76-A9748085AD50",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 124,
     "width": 64,
-    "x": 8079,
-    "y": 348
+    "x": 7656,
+    "y": 354
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -69,23 +69,13 @@
       "id": "8AC45F28-3595-4707-8E14-19EE7A360BDC"
     }
   ],
-  "name": "Footer-background / light",
+  "name": "Footer background / light",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8AC45F28-3595-4707-8E14-19EE7A360BDC_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "C0777FCF-81DA-402F-A714-257654EDECE9_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C0777FCF-81DA-402F-A714-257654EDECE9_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

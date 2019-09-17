@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 325,
+  "changeIdentifier": 1123,
   "clippingMaskMode": 0,
   "do_objectID": "A48172DB-7BA1-4FB1-AD70-AC15D64DCD68",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 57,
     "width": 376,
-    "x": 25770,
-    "y": 11
+    "x": 3906,
+    "y": 99
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -61,7 +61,7 @@
       "id": "26335268-5559-4A46-8B3F-864A1933C906"
     }
   ],
-  "name": "Card / alt / header",
+  "name": "Card / alt / Header",
   "nameIsFixed": true,
   "overrideProperties": [
     {

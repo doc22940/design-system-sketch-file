@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1048,
+  "changeIdentifier": 1529,
   "clippingMaskMode": 0,
   "do_objectID": "0BB70C56-F0CF-4437-8C30-D18AE9E4B530",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "71458EBC-7504-419A-86D0-4FC81B1E754E",
     "height": 46,
     "width": 150,
-    "x": 18447,
-    "y": 0
+    "x": 19383,
+    "y": 0.9999999999999716
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,18 +69,13 @@
       "id": "D926D1B4-12FE-4D7C-8545-6FFD0DDFB6A9"
     }
   ],
-  "name": "select / dark / default",
+  "name": "Select / dark / Default",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "93B39151-77F1-41C1-8D75-615B7BB588F0_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "F2582661-55DA-4140-BDBA-7216C9FA1F22_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

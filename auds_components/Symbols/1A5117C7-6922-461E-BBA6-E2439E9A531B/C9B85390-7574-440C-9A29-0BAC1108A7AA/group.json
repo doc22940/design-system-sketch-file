@@ -32,15 +32,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
       "id": "E025754E-A4D8-494D-A328-DAE3900EBCFC"
     }
   ],
-  "name": "star",
-  "nameIsFixed": false,
+  "name": "Star",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

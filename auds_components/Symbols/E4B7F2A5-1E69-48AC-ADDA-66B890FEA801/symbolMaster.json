@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 573,
+  "changeIdentifier": 1614,
   "clippingMaskMode": 0,
   "do_objectID": "E4B7F2A5-1E69-48AC-ADDA-66B890FEA801",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "9152E7C9-2FA4-4E56-9CEC-38C73C4F2EE6",
     "height": 44,
     "width": 198,
-    "x": 25110,
-    "y": 0
+    "x": 21865,
+    "y": 60.99999999999997
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -70,7 +70,7 @@
       "id": "7C75AEA3-72CB-474D-A17D-B6C3A9F43270"
     }
   ],
-  "name": "Table /  default / cell",
+  "name": "Table /  default / Cell",
   "nameIsFixed": true,
   "overrideProperties": [
     {

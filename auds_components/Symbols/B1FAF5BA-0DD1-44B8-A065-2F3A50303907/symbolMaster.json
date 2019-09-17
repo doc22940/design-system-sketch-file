@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1015,
+  "changeIdentifier": 1232,
   "clippingMaskMode": 0,
   "do_objectID": "B1FAF5BA-0DD1-44B8-A065-2F3A50303907",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "ED587630-7CE7-4C34-A758-498EE9F98FAD",
     "height": 64,
     "width": 104,
-    "x": 13123,
-    "y": 228
+    "x": 12290,
+    "y": 234
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -65,18 +65,13 @@
       "id": "503CC855-1BE1-4106-8EF0-3D8B42256C57"
     }
   ],
-  "name": "main-nav / light / desktop / item active hover",
+  "name": "Main nav / light / Desktop / Item active hover",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "503CC855-1BE1-4106-8EF0-3D8B42256C57_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "66067A0D-7B08-4B28-BAF7-981E0CDE7230_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

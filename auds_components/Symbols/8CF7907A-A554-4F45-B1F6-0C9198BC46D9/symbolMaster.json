@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1580,
+  "changeIdentifier": 1850,
   "clippingMaskMode": 0,
   "do_objectID": "8CF7907A-A554-4F45-B1F6-0C9198BC46D9",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "1838E715-AD72-49B9-9EFB-3E2F68954C05",
     "height": 64,
     "width": 64,
-    "x": 12819,
-    "y": 0
+    "x": 12028,
+    "y": 6
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -65,7 +65,7 @@
       "id": "25A02F5D-D0A2-443C-A0CE-10EFEB750891"
     }
   ],
-  "name": "main-nav / light alt / desktop / background",
+  "name": "Main nav / light / Alt / Desktop / Background",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -77,16 +77,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "BAC9D925-2853-461D-B76A-8B285BA11565_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "25A02F5D-D0A2-443C-A0CE-10EFEB750891_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "BAC9D925-2853-461D-B76A-8B285BA11565_image"
     }
   ],
   "resizesContent": true,

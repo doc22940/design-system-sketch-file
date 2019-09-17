@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -41,7 +41,7 @@
       "id": "4B12A813-12BB-4DC2-A0D1-C67FF90C5787"
     }
   ],
-  "name": "icon / success fill",
+  "name": "Icon / Success fill",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

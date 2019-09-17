@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -41,8 +41,8 @@
       "id": "8AD776EF-82B5-473A-A376-8BB45D1557AF"
     }
   ],
-  "name": "Shape Copy 11",
-  "nameIsFixed": false,
+  "name": "Shape 1",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon / progress-indicator__todo",
-  "nameIsFixed": false,
+  "name": "Icon / Progress indicator todo",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

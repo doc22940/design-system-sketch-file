@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -45,7 +45,7 @@
       "id": "B6BB3330-E9E2-4AF0-8314-C0C9D7A85AF3"
     }
   ],
-  "name": "icon / error stroke dark",
+  "name": "Icon / error stroke dark",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Checkbox / icons / light / enabled checked",
-  "nameIsFixed": false,
+  "name": "Checkbox / icons / light / Disabled unchecked",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 9,

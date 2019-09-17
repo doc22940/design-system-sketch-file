@@ -32,15 +32,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "E6A86D62-07B2-4AD0-B00A-0A7E46B15F52"
-    },
-    {
-      "class": "rectangle",
-      "id": "A99E0D86-8B6B-4865-83B0-B69BD712F901"
     },
     {
       "class": "rectangle",
@@ -49,9 +45,13 @@
     {
       "class": "rectangle",
       "id": "41907E56-F428-4441-B6FA-C96E91B55E38"
+    },
+    {
+      "class": "rectangle",
+      "id": "A99E0D86-8B6B-4865-83B0-B69BD712F901"
     }
   ],
-  "name": "icon",
+  "name": "Icon",
   "nameIsFixed": true,
   "resizingConstraint": 13,
   "resizingType": 0,

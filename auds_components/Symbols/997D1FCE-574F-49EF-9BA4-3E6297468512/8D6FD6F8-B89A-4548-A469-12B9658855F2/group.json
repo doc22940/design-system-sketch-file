@@ -43,8 +43,8 @@
       "id": "DCC510CE-B605-49D3-BC5B-3508E186E670"
     }
   ],
-  "name": "checkbox-shape",
-  "nameIsFixed": false,
+  "name": "Checkbox shape",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 109,
+  "changeIdentifier": 968,
   "clippingMaskMode": 0,
   "do_objectID": "B7E4808A-1027-4629-AA35-565659CD1F30",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 23803,
-    "y": 4266
+    "x": 24445,
+    "y": 4259.999999999998
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,14 +50,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "4820B9F2-98AE-4CF4-905A-E50C6059C2C3"
     }
   ],
-  "name": "z - utility / icon / success stroke dark",
+  "name": "Z utility / icon / Success stroke dark",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

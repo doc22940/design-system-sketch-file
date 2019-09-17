@@ -43,8 +43,8 @@
       "id": "E072B8B3-DC01-4969-A67A-66AA0CE082A5"
     }
   ],
-  "name": "radio-shape",
-  "nameIsFixed": false,
+  "name": "Radio shape",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

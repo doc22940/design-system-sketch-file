@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 17113,
+  "changeIdentifier": 17896,
   "clippingMaskMode": 0,
   "do_objectID": "0BBEBAD1-29FA-488F-9821-89517B0CBA6B",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "54F35FAF-2506-49B9-A82B-3F0AD9037928",
     "height": 178,
     "width": 675,
-    "x": 9218,
-    "y": 0
+    "x": 8696,
+    "y": 6
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -97,7 +97,7 @@
     "rowHeightMultiplication": 8,
     "totalWidth": 835
   },
-  "name": "Header / dark / Desktop Default",
+  "name": "Header / dark / Desktop / Default",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -128,11 +128,6 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D24E5866-13D1-421B-8C56-0ED4EBBF8BEE_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "D24E5866-13D1-421B-8C56-0ED4EBBF8BEE_layerStyle"
     },
     {
@@ -143,27 +138,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2B4B5C13-51DC-41C6-8B5B-A8B3FAABBC6A_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "C429E592-4A34-4F55-A41A-087EAD7E0F69_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "48AE3814-48E6-42E5-B36C-174EB6C33715_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "70F0DF91-734D-4F5A-AFF7-901E8F3FC32E_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C7F3B05A-556C-4458-A8FE-F627001A25D6_image"
     }
   ],
   "resizesContent": false,

@@ -27,14 +27,14 @@
     "do_objectID": "BC0B859E-A9FA-4AA7-B49A-72FB077C0072",
     "height": 787,
     "width": 835,
-    "x": 15592,
+    "x": 17786,
     "y": 3693
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",

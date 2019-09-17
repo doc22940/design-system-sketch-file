@@ -41,8 +41,8 @@
       "id": "0123F8E7-7784-4765-8BFA-35FE2CB615F0"
     }
   ],
-  "name": "Shape Copy 3",
-  "nameIsFixed": false,
+  "name": "Shape 2",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

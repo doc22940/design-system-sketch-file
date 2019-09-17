@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1625,
+  "changeIdentifier": 1695,
   "clippingMaskMode": 0,
   "do_objectID": "CB051176-6F48-4220-9C80-1E3D653A82F5",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "5E9AB738-D0CC-4BED-AD3D-8E631539BB81",
     "height": 36,
     "width": 300,
-    "x": 6476,
-    "y": 0
+    "x": 6253,
+    "y": 6
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -68,11 +68,6 @@
   "name": "Code block / dark",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AE9C71F9-A693-4928-AE00-B6102C397684_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

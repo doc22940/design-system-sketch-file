@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 107,
+  "changeIdentifier": 736,
   "clippingMaskMode": 0,
   "do_objectID": "A2541C60-C3E9-4B18-8FD0-DDA5985585B6",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 62,
     "width": 256,
-    "x": 24406,
-    "y": 112
+    "x": 24949,
+    "y": 102.9999999999997
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,14 +50,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
       "id": "658C8946-0CC9-4613-A0D1-A20E86E5C7DC"
     }
   ],
-  "name": "z - utility / logo / coa-white",
+  "name": "Z utility / logo / coa white",
   "nameIsFixed": true,
   "overrideProperties": [
     {

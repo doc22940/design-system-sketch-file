@@ -43,8 +43,8 @@
       "id": "B67CB9DF-5FF5-4B97-BA31-3664F6F9D588"
     }
   ],
-  "name": "checkbox-shape",
-  "nameIsFixed": false,
+  "name": "Checkbox shape",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

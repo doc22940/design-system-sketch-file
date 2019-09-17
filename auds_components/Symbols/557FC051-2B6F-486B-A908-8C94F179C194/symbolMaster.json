@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 106,
+  "changeIdentifier": 972,
   "clippingMaskMode": 0,
   "do_objectID": "557FC051-2B6F-486B-A908-8C94F179C194",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 23803,
-    "y": 1528
+    "x": 24445,
+    "y": 1522
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,14 +50,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "5C16A958-9D2D-4A70-B6EA-C781EF3BA28E"
     }
   ],
-  "name": "z - utility / icon / error fill",
+  "name": "Z utility / icon / Error fill",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

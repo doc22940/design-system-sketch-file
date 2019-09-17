@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1048,
+  "changeIdentifier": 2082,
   "clippingMaskMode": 0,
   "do_objectID": "38FB607B-D0B2-448C-AB76-8C16A41EEB60",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 34,
     "width": 71,
-    "x": 21498,
-    "y": 0
+    "x": 22435,
+    "y": -10.00000000000001
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "3C234145-C46C-4825-AD9D-3209A77F3A09"
     }
   ],
-  "name": "tags / light / link",
+  "name": "Tags / light / Link",
   "nameIsFixed": true,
   "overrideProperties": [
     {

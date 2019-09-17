@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 21,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Accordion / light alt"
+    "string": "Accordion / light / Alt"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 176,
-    "x": 1000,
+    "width": 182,
+    "x": 900,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {176, 19}}",
+  "glyphBounds": "{{0, 2}, {181, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,8 +64,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Accordion / light alt",
-  "nameIsFixed": false,
+  "name": "Accordion / light / Alt",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,

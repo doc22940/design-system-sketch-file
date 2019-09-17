@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 388,
+  "changeIdentifier": 1253,
   "clippingMaskMode": 0,
   "do_objectID": "B54146E7-59EB-4AE5-9B30-A5F03C8FE588",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "5A722C70-C814-47A3-B066-14FA5412DE05",
     "height": 38,
     "width": 38,
-    "x": 23803,
-    "y": 296
+    "x": 24445,
+    "y": 289.9999999999997
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -69,7 +69,7 @@
       "id": "76E55359-1343-4F7E-B0BD-91F2B8148F2D"
     }
   ],
-  "name": "z - utility / icon / checkbox / dark alt / enabled checked",
+  "name": "Z utility / icon / checkbox / dark / Alt / Enabled checked",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -85,32 +85,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "175C5D44-4F5A-4ABC-8117-1F05261F7F82_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "175C5D44-4F5A-4ABC-8117-1F05261F7F82_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "BAD334C6-FA28-4382-956B-7F5949AB21AD_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "22CF912D-78C8-48D5-A1D6-A5B5414E92A6_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "BAD334C6-FA28-4382-956B-7F5949AB21AD_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "F913031B-55B8-49CC-968C-46C9C08C74B8_image"
     }
   ],
   "resizesContent": false,

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 23,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Radio Button / dark alt"
+    "string": "Radio button / dark / Alt"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 201,
-    "x": 16951,
-    "y": 0
+    "width": 208,
+    "x": 16917,
+    "y": 7
   },
-  "glyphBounds": "{{1, 4}, {199, 19}}",
+  "glyphBounds": "{{1, 2}, {207, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,8 +64,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Radio Button / dark alt",
-  "nameIsFixed": false,
+  "name": "Radio button / dark / Alt",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,

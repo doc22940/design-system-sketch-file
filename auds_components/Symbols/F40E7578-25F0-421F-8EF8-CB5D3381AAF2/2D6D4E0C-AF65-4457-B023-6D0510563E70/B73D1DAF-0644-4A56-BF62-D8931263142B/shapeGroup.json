@@ -41,8 +41,8 @@
       "id": "D1E62847-DB50-42C1-B899-8904A142F51C"
     }
   ],
-  "name": "Shape Copy 11",
-  "nameIsFixed": false,
+  "name": "Shape 1",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -45,7 +45,7 @@
       "id": "247F9F1A-2F3E-4DA1-AFC2-DF5604628028"
     }
   ],
-  "name": "icon / warning stroke",
+  "name": "Icon / Warning stroke",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

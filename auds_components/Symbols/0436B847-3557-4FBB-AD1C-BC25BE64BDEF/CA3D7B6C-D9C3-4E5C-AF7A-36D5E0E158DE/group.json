@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -41,7 +41,7 @@
       "id": "8923A7E2-DAFA-4BDD-9E9E-7BE255FBA169"
     }
   ],
-  "name": "icon / info fill dark",
+  "name": "Icon / info fill dark",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

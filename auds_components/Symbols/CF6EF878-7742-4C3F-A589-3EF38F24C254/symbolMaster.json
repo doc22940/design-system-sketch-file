@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 371,
+  "changeIdentifier": 607,
   "clippingMaskMode": 0,
   "do_objectID": "CF6EF878-7742-4C3F-A589-3EF38F24C254",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 56,
     "width": 300,
-    "x": 1000,
-    "y": 0
+    "x": -202,
+    "y": -1
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -65,14 +65,9 @@
       "id": "BAAA18A1-F54F-4ED7-B69B-4E28DBF10B4F"
     }
   ],
-  "name": "Accordion / light alt / Closed",
+  "name": "Accordion / light / Alt / Closed",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "949888E7-3762-4014-9D81-A123D3D89A35_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

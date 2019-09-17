@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Checkbox-icon / light alt / enabled checked",
-  "nameIsFixed": false,
+  "name": "Checkbox-icon / dark / Enabled unchecked",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 9,

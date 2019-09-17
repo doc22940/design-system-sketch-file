@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 203,
+  "changeIdentifier": 1064,
   "clippingMaskMode": 0,
   "do_objectID": "89B3D4EE-6002-4442-9316-372FF05AFC97",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 10,
     "width": 16,
-    "x": 23803,
-    "y": 0
+    "x": 24445,
+    "y": -6.000000000000284
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -61,7 +61,7 @@
       "id": "C7D86DA2-8E26-4F02-AD67-9AFACF32D853"
     }
   ],
-  "name": "z - utility / icon / accordion-chevron / dark",
+  "name": "Z utility / icon / Accordion chevron / dark",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

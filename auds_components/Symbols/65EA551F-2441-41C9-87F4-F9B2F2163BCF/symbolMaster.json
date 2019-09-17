@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1044,
+  "changeIdentifier": 1582,
   "clippingMaskMode": 0,
   "do_objectID": "65EA551F-2441-41C9-87F4-F9B2F2163BCF",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 165,
     "width": 165,
-    "x": 24041,
-    "y": 215
+    "x": 24642,
+    "y": 213.9999999999998
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -65,14 +65,9 @@
       "id": "59B55455-EC77-42B9-96E4-18D2C251BEC8"
     }
   ],
-  "name": "z - utility / image-placeholder / light",
-  "nameIsFixed": false,
+  "name": "Z utility / image placeholder / light",
+  "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "97129509-54F8-4D51-B7DD-645870CBABCB_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

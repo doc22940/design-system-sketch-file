@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2508,
+  "changeIdentifier": 2749,
   "clippingMaskMode": 0,
   "do_objectID": "7B84FAA4-FDD2-42F4-B5BA-DF3D5B0CFD75",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 72,
     "width": 300,
-    "x": 4480,
-    "y": 122
+    "x": 2928,
+    "y": 128
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -69,19 +69,9 @@
       "id": "73E2F54A-9309-4231-BD6A-41D34D1E96F2"
     }
   ],
-  "name": "Callout / light / default",
+  "name": "Callout / light / Default",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "73E2F54A-9309-4231-BD6A-41D34D1E96F2_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6902513B-2FC9-4E4D-B940-C65FF1A7F6EF_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -96,11 +86,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "6902513B-2FC9-4E4D-B940-C65FF1A7F6EF_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "DE9650AE-F4F8-48D4-A418-5496D06906C7_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

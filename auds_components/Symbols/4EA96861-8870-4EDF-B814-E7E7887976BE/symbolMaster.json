@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2065,
+  "changeIdentifier": 2129,
   "clippingMaskMode": 0,
   "do_objectID": "4EA96861-8870-4EDF-B814-E7E7887976BE",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "9EAA7443-2A25-4312-A59C-AECE4FD72949",
     "height": 42,
     "width": 174,
-    "x": 5354,
-    "y": 0
+    "x": 5281,
+    "y": 6
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -77,7 +77,7 @@
       "id": "8A4CDE83-59F6-4E1C-87C5-625BB2C57099"
     }
   ],
-  "name": "Checkbox / dark / disabled checked",
+  "name": "Checkbox / dark / Disabled checked",
   "nameIsFixed": true,
   "overrideProperties": [
     {

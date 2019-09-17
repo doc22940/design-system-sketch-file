@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1325,
+  "changeIdentifier": 2036,
   "clippingMaskMode": 0,
   "do_objectID": "D6EE9D45-C618-4084-85B9-D97072238403",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "0A16A807-62C1-4557-9800-C120EAD126B1",
     "height": 52,
     "width": 320,
-    "x": 20707,
-    "y": 828
+    "x": 21395,
+    "y": 828.9999999999999
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,7 +65,7 @@
       "id": "7F95C50D-E6F8-4498-8C77-7649C8A05F1E"
     }
   ],
-  "name": "Side-nav / light / level-3 / active",
+  "name": "Side nav / light / level-3 / Active",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -82,11 +82,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "7F95C50D-E6F8-4498-8C77-7649C8A05F1E_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "592BBB1A-6D36-4867-8B6B-C5C87BA9465F_image"
     }
   ],
   "resizesContent": true,

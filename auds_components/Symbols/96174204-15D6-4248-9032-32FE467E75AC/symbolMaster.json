@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 351,
+  "changeIdentifier": 1209,
   "clippingMaskMode": 0,
   "do_objectID": "96174204-15D6-4248-9032-32FE467E75AC",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "0C1ADEB5-FF97-4182-8884-1A1F86D8F292",
     "height": 24,
     "width": 24,
-    "x": 23803,
-    "y": 2194
+    "x": 24445,
+    "y": 2188
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,23 +65,13 @@
       "id": "7BA30B19-BF07-4A0C-B9CA-2264FD716F40"
     }
   ],
-  "name": "z - utility / icon / progress-indicator / dark / done",
+  "name": "Z utility / icon / progress-indicator / dark / Done",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "1D7EE7E4-098C-4983-B432-5EABC3009244_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "7BA30B19-BF07-4A0C-B9CA-2264FD716F40_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1D7EE7E4-098C-4983-B432-5EABC3009244_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

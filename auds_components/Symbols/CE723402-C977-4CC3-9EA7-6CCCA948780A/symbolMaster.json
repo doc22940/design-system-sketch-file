@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 18834,
+  "changeIdentifier": 18977,
   "clippingMaskMode": 0,
   "do_objectID": "CE723402-C977-4CC3-9EA7-6CCCA948780A",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "C8726447-A48C-4313-B561-2E75F80A299B",
     "height": 296,
     "width": 675,
-    "x": 8343,
-    "y": 228
+    "x": 7870,
+    "y": 234
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -93,7 +93,7 @@
     "rowHeightMultiplication": 8,
     "totalWidth": 835
   },
-  "name": "Header / dark alt / Desktop Hero",
+  "name": "Header / dark / Alt / Desktop / Hero",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -105,11 +105,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "489B7513-5519-4641-B248-473B0CB68F38_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "94389E19-528B-40E7-84D9-1A814AFD0A37_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -140,16 +135,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "489B7513-5519-4641-B248-473B0CB68F38_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2BF208DC-078A-47FF-9C8C-C4450F447380_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "934191FF-A8BA-4CE0-927A-3DFF6FBBCD9C_image"
     }
   ],
   "resizesContent": false,

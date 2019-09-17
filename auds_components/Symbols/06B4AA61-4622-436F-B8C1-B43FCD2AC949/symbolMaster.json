@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 866,
+  "changeIdentifier": 2091,
   "clippingMaskMode": 0,
   "do_objectID": "06B4AA61-4622-436F-B8C1-B43FCD2AC949",
   "exportOptions": {
@@ -29,15 +29,15 @@
     "do_objectID": "FEF711D2-26AF-4E84-B8F5-8A58EC8744C9",
     "height": 112,
     "width": 376,
-    "x": 25351,
-    "y": 58
+    "x": 3380,
+    "y": 142
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "14E7E5A0-EB0D-4F59-A8E3-23A3585166DC"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,7 +70,7 @@
       "id": "405E8AE8-18E7-435B-AC02-442E886E4079"
     }
   ],
-  "name": "Card / light /  shadow / body",
+  "name": "Card / light / Shadow / Body",
   "nameIsFixed": true,
   "overrideProperties": [
     {

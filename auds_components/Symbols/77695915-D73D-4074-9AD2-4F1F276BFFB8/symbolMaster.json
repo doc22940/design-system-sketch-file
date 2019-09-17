@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 999,
+  "changeIdentifier": 1458,
   "clippingMaskMode": 0,
   "do_objectID": "77695915-D73D-4074-9AD2-4F1F276BFFB8",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 46,
     "width": 150,
-    "x": 18797,
-    "y": 0
+    "x": 19683,
+    "y": 0.9999999999999787
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -65,7 +65,7 @@
       "id": "AD016425-EBCF-4F76-953D-AFAF6BE92417"
     }
   ],
-  "name": "select / light / default",
+  "name": "Select / light / Default",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -77,11 +77,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "7339D729-3D4A-4109-AF0E-0E44020B978C_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "7339D729-3D4A-4109-AF0E-0E44020B978C_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 31,
+        "length": 29,
         "location": 0
       }
     ],
-    "string": "z - utility / image-placeholder"
+    "string": "Z utility / image-placeholder"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 267,
-    "x": 24041,
-    "y": 0
+    "width": 245,
+    "x": 25735,
+    "y": 7
   },
-  "glyphBounds": "{{0, 4}, {266, 19}}",
+  "glyphBounds": "{{0, 2}, {245, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,8 +64,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "z - utility / image-placeholder",
-  "nameIsFixed": false,
+  "name": "Z utility / Image placeholder",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,

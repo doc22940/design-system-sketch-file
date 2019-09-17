@@ -29,10 +29,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "progress-indicator / light / doing copy 7",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "180721C0-A216-40F5-AAF7-A4BF4D9500BE",
+      "overrideName": "B11D0121-C78D-46B3-96DC-EAA0A85F7B67_stringValue",
+      "value": "Label"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

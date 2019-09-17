@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -41,7 +41,7 @@
       "id": "FDE229F3-078C-4002-B363-85D2B44F4DA6"
     }
   ],
-  "name": "padding",
+  "name": "Padding",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 20,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Side-nav / light alt"
+    "string": "Side nav / light / Alt"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 165,
-    "x": 20187,
-    "y": 0
+    "width": 171,
+    "x": 22024,
+    "y": 7
   },
-  "glyphBounds": "{{0, 4}, {165, 19}}",
+  "glyphBounds": "{{0, 2}, {170, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,8 +64,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Side-nav / light alt",
-  "nameIsFixed": false,
+  "name": "Side nav / light / Alt",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,

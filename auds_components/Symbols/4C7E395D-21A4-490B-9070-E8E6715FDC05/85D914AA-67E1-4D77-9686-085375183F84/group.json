@@ -39,8 +39,8 @@
       "id": "84D3F6F1-D913-4223-8C59-393E91E8FA50"
     }
   ],
-  "name": "radio-icon",
-  "nameIsFixed": false,
+  "name": "Radio icon",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

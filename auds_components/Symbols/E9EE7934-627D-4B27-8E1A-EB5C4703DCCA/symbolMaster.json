@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 862,
+  "changeIdentifier": 1692,
   "clippingMaskMode": 0,
   "do_objectID": "E9EE7934-627D-4B27-8E1A-EB5C4703DCCA",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "8C9D0DEA-4EAD-4CD3-8F95-33DA8629318A",
     "height": 46,
     "width": 167,
-    "x": 21769,
-    "y": 96
+    "x": 22656,
+    "y": 85.99999999999997
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "920D7F76-CE3F-44F3-9D27-8A0CA1D465D3"
     }
   ],
-  "name": "text-input / dark / enabled",
+  "name": "Text-input / dark / Enabled",
   "nameIsFixed": true,
   "overrideProperties": [
     {

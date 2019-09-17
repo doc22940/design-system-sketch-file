@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 18431,
+  "changeIdentifier": 18835,
   "clippingMaskMode": 0,
   "do_objectID": "F787DDFD-637B-40DC-8361-49AC60CDAFA3",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "B7E8492E-1791-45AF-BC8B-5A8381F2EA5B",
     "height": 296,
     "width": 675,
-    "x": 10968,
-    "y": 228
+    "x": 10346,
+    "y": 234
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -93,18 +93,13 @@
     "rowHeightMultiplication": 8,
     "totalWidth": 835
   },
-  "name": "Header / light / Desktop Hero",
+  "name": "Header / light / Desktop / Hero",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "FF638621-1682-47B0-A0F3-EC7B85F50E14_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B5A6F23D-D5A1-4579-AFC0-E27478FA425B_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -135,16 +130,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "FA994E4A-2974-46B4-B4EB-8E6A610BF363_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FF638621-1682-47B0-A0F3-EC7B85F50E14_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "D04BAC36-66EE-409D-937A-DF3F2686C463_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 22,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "page-alerts / dark alt"
+    "string": "Page alerts / dark / Alt"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 190,
-    "x": 13427,
-    "y": 0
+    "width": 196,
+    "x": 13646,
+    "y": 7
   },
-  "glyphBounds": "{{0, 4}, {189, 19}}",
+  "glyphBounds": "{{1, 2}, {195, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,8 +64,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "page-alerts / dark alt",
-  "nameIsFixed": false,
+  "name": "Page alerts / dark / Alt",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,

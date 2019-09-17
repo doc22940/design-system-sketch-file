@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "select / light"
+    "string": "Select / light"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 112,
-    "x": 18797,
-    "y": 0
+    "width": 109,
+    "x": 20787,
+    "y": 7
   },
-  "glyphBounds": "{{0, 4}, {111, 19}}",
+  "glyphBounds": "{{0, 2}, {109, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "select / light",
+  "name": "Select / light",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

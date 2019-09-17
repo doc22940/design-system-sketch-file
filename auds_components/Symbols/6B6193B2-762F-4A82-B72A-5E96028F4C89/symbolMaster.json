@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1719,
+  "changeIdentifier": 1793,
   "clippingMaskMode": 0,
   "do_objectID": "6B6193B2-762F-4A82-B72A-5E96028F4C89",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "621EB143-A557-4DAD-817C-5F589F498F2E",
     "height": 42,
     "width": 174,
-    "x": 6102,
-    "y": 0
+    "x": 5929,
+    "y": 2
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -57,10 +57,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "57395BCA-1292-42D7-B862-08A0A2C24EAE"
-    },
-    {
       "class": "rectangle",
       "id": "184976B4-A1B7-44E4-BF31-CCA9AB04E91A"
     },
@@ -75,9 +71,13 @@
     {
       "class": "text",
       "id": "A183728B-526B-46BD-8B5F-B239ADDDDA89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57395BCA-1292-42D7-B862-08A0A2C24EAE"
     }
   ],
-  "name": "Checkbox / light / disabled checked",
+  "name": "Checkbox / light / Disabled checked",
   "nameIsFixed": true,
   "overrideProperties": [
     {

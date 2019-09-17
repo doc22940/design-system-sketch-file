@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 163,
+  "changeIdentifier": 1027,
   "clippingMaskMode": 0,
   "do_objectID": "FCD00F81-2678-495F-BA9A-7AD3558A4EBA",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 38,
     "width": 38,
-    "x": 23803,
-    "y": 1352
+    "x": 24445,
+    "y": 1346
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -65,7 +65,7 @@
       "id": "4804DB46-EA7E-48A7-B3FE-6540EE84F78E"
     }
   ],
-  "name": "z - utility / icon / checkbox / light / enabled checked",
+  "name": "Z utility / icon / checkbox / light / Enabled checked",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

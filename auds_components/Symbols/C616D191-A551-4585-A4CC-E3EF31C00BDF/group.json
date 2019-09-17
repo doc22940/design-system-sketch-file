@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 24,
-    "width": 25011,
-    "x": 0,
-    "y": -73
+    "height": 35,
+    "width": 26589,
+    "x": -1102,
+    "y": -74
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
@@ -71,6 +71,18 @@
     {
       "class": "text",
       "id": "99B96A0A-6962-4DD5-99B8-517993DB70BF"
+    },
+    {
+      "class": "text",
+      "id": "6CA83D84-5313-4A92-B29A-28B89840E7F8"
+    },
+    {
+      "class": "text",
+      "id": "1B7594E3-C55B-49B2-A852-147461016D2F"
+    },
+    {
+      "class": "text",
+      "id": "2358C18F-57AD-44CC-BA66-018435F6CE71"
     },
     {
       "class": "text",
@@ -251,6 +263,26 @@
     {
       "class": "text",
       "id": "C1D7C086-3297-4B96-AB57-55D7D50A522E"
+    },
+    {
+      "class": "text",
+      "id": "A8E8ADAA-78DD-4633-8573-F78A2DA703D9"
+    },
+    {
+      "class": "text",
+      "id": "55DD8DA9-EE43-4B4A-B6F7-DE8FE52F40C3"
+    },
+    {
+      "class": "text",
+      "id": "B5B7C7C5-BE0E-4954-8E21-184C44A26A5D"
+    },
+    {
+      "class": "text",
+      "id": "F5BC6CA6-E692-4734-8AAC-4E7C18090851"
+    },
+    {
+      "class": "text",
+      "id": "29E5AAD5-929E-4879-83B5-89F903F3E2D3"
     }
   ],
   "name": "Titles",

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3511,
+  "changeIdentifier": 3759,
   "clippingMaskMode": 0,
   "do_objectID": "108FB440-920A-4AC8-9E80-20E4F616244B",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "1E12C59E-7B6F-47BF-A998-241C3C9A13CA",
     "height": 64,
     "width": 320,
-    "x": 15911,
-    "y": 114
+    "x": 14867,
+    "y": 120
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -77,18 +77,13 @@
       "id": "E538A003-A3C5-42AA-A402-ED5CFD370751"
     }
   ],
-  "name": "progress-indicator / dark / done",
+  "name": "Progress indicator / dark / Done",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "C1AD3D64-1EBC-445E-8340-D77A2487F705_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "E88AB940-6D2B-4B66-ABE6-EBB76522199F_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -109,11 +104,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "C4860B9C-10DE-4521-8BB8-E45A621BA524_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C4860B9C-10DE-4521-8BB8-E45A621BA524_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

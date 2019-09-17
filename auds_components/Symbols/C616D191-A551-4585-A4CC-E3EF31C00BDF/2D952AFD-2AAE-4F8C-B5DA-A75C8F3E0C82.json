@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 19,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Checkbox / dark alt"
+    "string": "Checkbox / dark / Alt"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 176,
-    "x": 4980,
-    "y": 0
+    "width": 184,
+    "x": 6059,
+    "y": 7
   },
-  "glyphBounds": "{{0, 4}, {176, 19}}",
+  "glyphBounds": "{{0, 2}, {183, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,8 +64,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Checkbox / dark alt",
-  "nameIsFixed": false,
+  "name": "Checkbox / dark / Alt",
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,

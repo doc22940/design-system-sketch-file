@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "Helvetica",
               "size": 20
             }
           },
@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "breadcrumbs / light"
+    "string": "Breadcrumbs / light"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 178,
-    "x": 2625,
-    "y": 0
+    "width": 173,
+    "x": 2376,
+    "y": 3
   },
-  "glyphBounds": "{{0, 4}, {178, 19}}",
+  "glyphBounds": "{{1, 2}, {171, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "breadcrumbs / light",
+  "name": "Breadcrumbs / light",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

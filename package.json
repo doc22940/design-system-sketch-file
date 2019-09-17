@@ -26,15 +26,15 @@
     "kactus-cli": "^0.5.7"
   },
   "contributors": [
-  {
-    "name": "Sukhraj Ghuman",
-    "email": "sukhrajghuman@live.com",
-    "url": "https://github.com/sukhrajghuman"
-  },
-  {
-    "name": "Kiri Hoy",
-    "email": "kiri.hoy@digital.gov.au",
-    "url": "https://github.com/kirihoy"
-  }
-]
+    {
+      "name": "Sukhraj Ghuman",
+      "email": "sukhrajghuman@live.com",
+      "url": "https://github.com/sukhrajghuman"
+    },
+    {
+      "name": "Kiri Hoy",
+      "email": "kiri.hoy@digital.gov.au",
+      "url": "https://github.com/kirihoy"
+    }
+  ]
 }

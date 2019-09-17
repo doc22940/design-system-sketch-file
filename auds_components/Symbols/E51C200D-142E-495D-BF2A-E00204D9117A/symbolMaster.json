@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 257,
+  "changeIdentifier": 920,
   "clippingMaskMode": 0,
   "do_objectID": "E51C200D-142E-495D-BF2A-E00204D9117A",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 40,
     "width": 40,
-    "x": 24862,
-    "y": 280
+    "x": 25363,
+    "y": 278.9999999999998
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -61,7 +61,7 @@
       "id": "10249A51-298D-48B0-8199-CA2C4AEF138A"
     }
   ],
-  "name": "z - utility / space / unit 2.5",
+  "name": "Z utility / space / unit 2.5",
   "nameIsFixed": true,
   "overrideProperties": [
     {

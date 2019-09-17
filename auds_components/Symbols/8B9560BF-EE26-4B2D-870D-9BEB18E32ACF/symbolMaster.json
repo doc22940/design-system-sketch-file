@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 267,
+  "changeIdentifier": 490,
   "clippingMaskMode": 0,
   "do_objectID": "8B9560BF-EE26-4B2D-870D-9BEB18E32ACF",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "6EA3540A-510D-4496-834A-F3A622FC2A05",
     "height": 48,
     "width": 48,
-    "x": 13123,
-    "y": 668
+    "x": 12290,
+    "y": 674
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,7 +69,7 @@
       "id": "34F9CF43-F908-4A68-918B-CBD4A2332505"
     }
   ],
-  "name": "main-nav / light / mobile / toggle button expanded",
+  "name": "Main nav / light / Mobile / Toggle button expanded",
   "nameIsFixed": true,
   "overrideProperties": [
     {
@@ -81,11 +81,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "34F9CF43-F908-4A68-918B-CBD4A2332505_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6B1658BA-1D66-4390-A844-4AFB0955A918_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

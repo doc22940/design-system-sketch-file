@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2028,
+  "changeIdentifier": 2931,
   "clippingMaskMode": 0,
   "do_objectID": "A6C2DC59-484C-455D-89BF-B08EE6D9A694",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "CC462CF1-6587-41C6-871C-0B098B3F9267",
     "height": 34,
     "width": 71,
-    "x": 21227,
-    "y": 84
+    "x": 22213,
+    "y": 75.99999999999997
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "7D0A6F3D-DC8A-4622-A962-41634C8ABF26"
     }
   ],
-  "name": "tags / dark / link hover",
+  "name": "Tags / dark / Link hover",
   "nameIsFixed": true,
   "overrideProperties": [
     {

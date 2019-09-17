@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 106,
+  "changeIdentifier": 966,
   "clippingMaskMode": 0,
   "do_objectID": "79CFB26A-B9E5-451E-8D3B-62BA0128A046",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 23803,
-    "y": 4414
+    "x": 24445,
+    "y": 4407.999999999998
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,14 +50,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "CDAAF057-A4FC-46C7-B8FC-C6708438FB03"
     }
   ],
-  "name": "z - utility / icon / warning fill dark",
+  "name": "Z utility / icon / Warning fill dark",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

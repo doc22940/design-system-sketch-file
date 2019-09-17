@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -43,7 +43,7 @@
       "id": "0AC55070-7A7E-4D05-9C8A-02D2E8449ADD"
     }
   ],
-  "name": "breadcrumb-icon 2",
+  "name": "Breadcrumb Icon 2",
   "nameIsFixed": true,
   "resizingConstraint": 45,
   "resizingType": 0,

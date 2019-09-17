@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1767,
+  "changeIdentifier": 1848,
   "clippingMaskMode": 0,
   "do_objectID": "C05C5417-972C-4D9D-AC16-4FDC4FEF0B7A",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "686A326A-58B5-4B5E-8841-1120BD2D11C9",
     "height": 42,
     "width": 174,
-    "x": 5728,
-    "y": 0
+    "x": 5605,
+    "y": 6
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -57,10 +57,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "8EBC14AD-E3B2-4E8E-9F8B-C97F6713592B"
-    },
-    {
       "class": "rectangle",
       "id": "8E44D845-DF75-46E8-9191-530536DD55C3"
     },
@@ -75,9 +71,13 @@
     {
       "class": "text",
       "id": "DE603938-FD5A-4D76-9C6B-FE2F0383B698"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8EBC14AD-E3B2-4E8E-9F8B-C97F6713592B"
     }
   ],
-  "name": "Checkbox / light alt / disabled checked",
+  "name": "Checkbox / light / Alt / Disabled checked",
   "nameIsFixed": true,
   "overrideProperties": [
     {

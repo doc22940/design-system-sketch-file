@@ -43,8 +43,8 @@
       "id": "2F7CEC60-0C9A-4B57-B7DD-E911D80E60F1"
     }
   ],
-  "name": "cta-icon",
-  "nameIsFixed": false,
+  "name": "CTA icon",
+  "nameIsFixed": true,
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,

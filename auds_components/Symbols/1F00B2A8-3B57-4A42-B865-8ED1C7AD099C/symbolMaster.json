@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3382,
+  "changeIdentifier": 3711,
   "clippingMaskMode": 0,
   "do_objectID": "1F00B2A8-3B57-4A42-B865-8ED1C7AD099C",
   "exportOptions": {
@@ -29,14 +29,14 @@
     "do_objectID": "20ED7634-3F9D-448A-AB29-9E084FCCDD65",
     "height": 32,
     "width": 425,
-    "x": 2000,
-    "y": 246
+    "x": 699,
+    "y": 248
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -93,7 +93,7 @@
       "id": "0704C844-41B4-4CD8-8CFC-A1E06003D110"
     }
   ],
-  "name": "breadcrumbs / dark / Levels-5",
+  "name": "Breadcrumbs / dark / Levels 5",
   "nameIsFixed": true,
   "overrideProperties": [
     {

@@ -29,11 +29,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 744,
+        "length": 750,
         "location": 0
       }
     ],
-    "string": "171207 1115 - Setup file. Add text styles - tb\n171208 1000 - Add changelog. Fix missing named text styles. Sort text styles. Add spacing symbols. Start icons -tb\n180314 1300 - Add symbols for Coat of Arms, GOV.AU logos, Star icon, GOV.AU ribbon,  DTA colour palette. - AEB\n180508 1700 - Updated colours and added them as shared styles and document swatches - AD\n180629 1200 - Update file to represent current state of AusGovDesignSystem (All components as symbols in each theme) - tb\n180907 1200 - Replaced font families, fixed issues from missing text styles - ap\n190407 1000 - Update alert colours, add new colours for hint text - rg\n\nFuture changelog history can be found here: https://github.com/govau/design-system-sketch-file/releases\n\n\n\n"
+    "string": "171207 1115 - Setup file. Add text styles - tb\n171208 1000 - Add changelog. Fix missing named text styles. Sort text styles. Add spacing symbols. Start icons -tb\n180314 1300 - Add symbols for Coat of Arms, GOV.AU logos, Star icon, GOV.AU ribbon,  DTA colour palette. - AEB\n180508 1700 - Updated colours and added them as shared styles and document swatches - AD\n180629 1200 - Update file to represent current state of AusGovDesignSystem (All components as symbols in each theme) - tb\n180907 1200 - Replaced font families, fixed issues from missing text styles - ap\n190407 1000 - Update alert colours, add new colours for hint text - rg\n\nFuture changelog history can be found here: https://github.com/govau/design-system-sketch-file/releases\n\n \n\n     "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,9 +55,9 @@
     "height": 456,
     "width": 1174,
     "x": 30,
-    "y": 115
+    "y": 127
   },
-  "glyphBounds": "{{0, 6}, {1161, 277}}",
+  "glyphBounds": "{{0, 6}, {1161, 301}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
