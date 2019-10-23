@@ -41,23 +41,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "FE899135-DE9B-4194-9EB2-D35C197A5106"
-    },
-    {
-      "class": "artboard",
-      "id": "4AE11839-0E1F-4D0D-ADEB-513443670F72"
-    },
-    {
-      "class": "artboard",
       "id": "46AFDCBF-6EDB-46FB-B4C5-654D73BF15FB"
-    },
-    {
-      "class": "artboard",
-      "id": "14CFB41E-A9BD-4625-ACF0-9B0DF55B9D84"
-    },
-    {
-      "class": "artboard",
-      "id": "3D6BB33C-8B42-4ABB-B92F-7AE8D27F18EE"
     },
     {
       "class": "artboard",
@@ -69,7 +53,23 @@
     },
     {
       "class": "artboard",
+      "id": "3D6BB33C-8B42-4ABB-B92F-7AE8D27F18EE"
+    },
+    {
+      "class": "artboard",
+      "id": "191EF889-F2E6-4B70-89DB-C4DDFF0A0366"
+    },
+    {
+      "class": "artboard",
+      "id": "1A8CF768-E092-451B-9449-ABA24F091AED"
+    },
+    {
+      "class": "artboard",
       "id": "15353190-FEF6-4241-AB1B-F4C0B27123D1"
+    },
+    {
+      "class": "artboard",
+      "id": "FE899135-DE9B-4194-9EB2-D35C197A5106"
     },
     {
       "class": "artboard",
@@ -77,7 +77,15 @@
     },
     {
       "class": "artboard",
+      "id": "4AE11839-0E1F-4D0D-ADEB-513443670F72"
+    },
+    {
+      "class": "artboard",
       "id": "99C8C873-0E7A-4DE9-8A6A-6C969FED2579"
+    },
+    {
+      "class": "artboard",
+      "id": "14CFB41E-A9BD-4625-ACF0-9B0DF55B9D84"
     },
     {
       "class": "artboard",
@@ -89,11 +97,15 @@
     },
     {
       "class": "artboard",
-      "id": "0D66C9A1-250F-429A-A1B4-649EFC53A6AD"
+      "id": "698B18DE-FB20-4F77-8FF2-F08E0BDA2A0F"
     },
     {
       "class": "artboard",
-      "id": "2F63E52D-5BE2-4135-A5DA-D96164C1A604"
+      "id": "26ADAB64-BE7C-4BA9-A47D-D6D58A6697CD"
+    },
+    {
+      "class": "artboard",
+      "id": "0D66C9A1-250F-429A-A1B4-649EFC53A6AD"
     },
     {
       "class": "artboard",
@@ -101,11 +113,7 @@
     },
     {
       "class": "artboard",
-      "id": "698B18DE-FB20-4F77-8FF2-F08E0BDA2A0F"
-    },
-    {
-      "class": "artboard",
-      "id": "26ADAB64-BE7C-4BA9-A47D-D6D58A6697CD"
+      "id": "2F63E52D-5BE2-4135-A5DA-D96164C1A604"
     },
     {
       "class": "artboard",
@@ -146,14 +154,6 @@
     {
       "class": "artboard",
       "id": "B36A9F33-37D3-4221-9BC6-142DC496FA7C"
-    },
-    {
-      "class": "artboard",
-      "id": "1A8CF768-E092-451B-9449-ABA24F091AED"
-    },
-    {
-      "class": "artboard",
-      "id": "191EF889-F2E6-4B70-89DB-C4DDFF0A0366"
     }
   ],
   "name": "Design System",

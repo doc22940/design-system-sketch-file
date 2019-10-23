@@ -35,8 +35,8 @@
     "do_objectID": "21124211-C40D-413F-B3A4-D3CF08E820D3",
     "height": 2205,
     "width": 1780,
-    "x": 670,
-    "y": 1140
+    "x": 692.0000000000007,
+    "y": 922
   },
   "grid": {
     "_class": "simpleGrid",
@@ -67,7 +67,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
