@@ -1,7 +1,7 @@
 Contributing to the Design-system-sketch-file 🌵
 =================
 
-There are three pages within the sketch file:
+There are three pages within the Sketch file:
 
 ##### Design System Page
 
