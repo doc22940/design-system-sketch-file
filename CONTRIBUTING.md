@@ -5,7 +5,7 @@ There are three pages within the Sketch file:
 
 ##### Design System Page
 
-The purpose of the Design System page is to showcase how different themes affect the look of components. It allows designers to experiment with different colour schemes and see what their designs will look like.
+The purpose of the Design System page is to demonstrate how different themes affect the look of components. It allows designers to experiment with different colour schemes and see what their designs will look like.
 
 ##### Symbols Page
 
