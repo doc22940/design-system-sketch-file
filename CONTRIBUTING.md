@@ -25,7 +25,7 @@ The change log within the Sketch file is no longer updated. Changes are now trac
 The following conventions should be followed when adding a new component to the Sketch file:
 - Maintain spacing of 150 pixels between components.
 - Insert components alphabetically.
-- A component should have at least light and dark versions. Ideally, it should also have a responsive version and an alt version of both.
+- At a minimum, include light and dark versions. Ideally, it should also have a responsive version and an alt version of both.
 - When naming a component within the Design System Page, the name should follow this style: Component -- Text input. Elements within the component follow this style: Background light alt.
 - When naming a component within the Symbols page, with the exception of styling declaration of a component (dark, light or alt), all words should be capitalised. For example, Accordion / dark / Alt / Open
 - When adding a component to the Symbols page, the order in which the component versions appear is: _Dark, Dark Alt, Light, Light Alt_.
