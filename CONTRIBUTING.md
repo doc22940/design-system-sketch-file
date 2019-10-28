@@ -9,7 +9,7 @@ The purpose of the Design System page is to showcase how different themes affect
 
 ##### Symbols Page
 
-The purpose of the Symbols page is to show all of the available components and what they look like in each of their states. It shows what the components will look like in each of the themes (light, dark alt, etc.) while using the standard Design System colours.
+The purpose of the Symbols page is to show all of the available components and what they look like in each of their states (active, inactive, etc.) in each of the themes (light, dark alt, etc.) while using the standard Design System palette.
 
 ##### Example Page
 
