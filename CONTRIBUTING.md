@@ -13,7 +13,7 @@ The purpose of the Symbols page is to show all of the available components and w
 
 ##### Example Page
 
-The purpose of the Example page is to showcase how an implementation of the Design System would look on different screen types.
+The purpose of the Example page is to showcase how an implementation of the Design System would look on different screen sizes and orientations.
 
 ## Adding a new component to the Sketch file.
 ----------------------------
@@ -22,7 +22,7 @@ When adding a new component, ensure that it is added to the Design System page *
 
 The change log within the Sketch file is no longer updated. Changes are now tracked on Github under the [releases](https://github.com/govau/design-system-sketch-file/releases) section.
 
-The following conventions should be followed when adding a new component to the Sketch file:
+To aid consistency, the following conventions should be followed when adding a new component to the Sketch file:
 - Maintain spacing of 150 pixels between components.
 - Insert components alphabetically.
 - At a minimum, include light and dark versions. Ideally, it should also have a responsive version and an alt version of both.
