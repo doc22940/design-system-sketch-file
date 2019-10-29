@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "page-alerts / error / light copy 2",
-  "nameIsFixed": false,
+  "name": "Page-alerts / Error / dark",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

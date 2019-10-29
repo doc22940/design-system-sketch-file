@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -71,7 +71,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "55714785-210F-4754-8221-2C5C57E8B35F"
+      "id": "E52B2A62-C8D7-4323-BB44-A7830CF2039F"
     },
     {
       "class": "symbolInstance",
@@ -83,7 +83,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "E52B2A62-C8D7-4323-BB44-A7830CF2039F"
+      "id": "55714785-210F-4754-8221-2C5C57E8B35F"
     }
   ],
   "name": "Component -- CTA link",

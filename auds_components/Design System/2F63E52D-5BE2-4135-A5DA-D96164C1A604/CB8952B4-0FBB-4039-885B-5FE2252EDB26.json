@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1C777979-AD15-4F06-B3D9-48E9992605A5",
+  "do_objectID": "CB8952B4-0FBB-4039-885B-5FE2252EDB26",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F6DDBC60-34D8-450A-B4AB-76FAA2F8CFC8",
+    "do_objectID": "3CAD0A2F-F9CC-47DE-ABF2-DEC3E261A876",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FE08A480-846F-4143-9430-765C94A53547",
-    "height": 64,
-    "width": 320,
-    "x": 465,
-    "y": 89
+    "do_objectID": "37E577AF-B1B2-4C4C-9DA3-B03733BB535B",
+    "height": 112,
+    "width": 376,
+    "x": 474,
+    "y": 238
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "progress-indicator / light / doing copy 4",
-  "nameIsFixed": false,
+  "name": "Card / dark Alt / Body",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A25994DB-B1ED-4C24-8F68-95134B8BF263",
+      "overrideName": "0DFF94C0-F341-4ED7-B1B2-536CF2EDB8FE_layerStyle",
+      "value": "028FE561-4475-4791-8471-85BF3DBA9E2D"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "68B23C27-F0F9-4236-95F1-63A135CEB7C6",
+    "do_objectID": "A22DC831-1DDA-41ED-89CF-A2A277046D5B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "92E72D5A-B13B-47D3-8E41-FE7D3CD366FC",
+  "symbolID": "F0764341-572F-4536-A9F5-AA23E682EA87",
   "verticalSpacing": 0
 }

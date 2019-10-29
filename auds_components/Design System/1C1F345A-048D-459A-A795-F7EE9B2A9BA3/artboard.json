@@ -74,23 +74,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "00C32CD1-4751-4A76-9718-DD8980CF31B0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "049A4074-54BA-4D4F-8D13-3D3CD1CF5300"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CB4FA932-1394-4DFC-9DEE-102282282ABC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "12C07142-1C2E-475A-82B8-0966920BADF3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "00E93600-CEA3-4CA5-9EA3-1095AECE171E"
+      "id": "48FF955B-EDFD-496F-8373-C919D151139B"
     },
     {
       "class": "symbolInstance",
@@ -98,7 +82,23 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8C704EC8-880D-4213-A150-BC3AA333EB62"
+      "id": "00E93600-CEA3-4CA5-9EA3-1095AECE171E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12C07142-1C2E-475A-82B8-0966920BADF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB4FA932-1394-4DFC-9DEE-102282282ABC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "049A4074-54BA-4D4F-8D13-3D3CD1CF5300"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00C32CD1-4751-4A76-9718-DD8980CF31B0"
     },
     {
       "class": "symbolInstance",
@@ -110,7 +110,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "48FF955B-EDFD-496F-8373-C919D151139B"
+      "id": "8C704EC8-880D-4213-A150-BC3AA333EB62"
     }
   ],
   "name": "Core -- UIKit space",

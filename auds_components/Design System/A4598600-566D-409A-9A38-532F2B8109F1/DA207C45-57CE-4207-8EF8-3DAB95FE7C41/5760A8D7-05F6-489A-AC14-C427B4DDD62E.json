@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Table cell Copy 5",
-  "nameIsFixed": false,
+  "name": "Table cell / Test",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

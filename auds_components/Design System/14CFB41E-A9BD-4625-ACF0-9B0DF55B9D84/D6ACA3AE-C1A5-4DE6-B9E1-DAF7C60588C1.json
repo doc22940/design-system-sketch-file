@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "main-nav / light / desktop / item default copy",
-  "nameIsFixed": false,
+  "name": "Main-nav / light / Desktop / Item / Selected",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

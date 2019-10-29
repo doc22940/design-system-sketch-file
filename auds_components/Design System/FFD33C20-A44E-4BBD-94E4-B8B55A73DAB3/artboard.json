@@ -34,7 +34,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -71,47 +71,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "DF5292B3-BB2C-4EAA-B299-097F1291B980"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "25B07777-22CB-4B39-A843-8FD5877B80CF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F6483E5E-88F3-4273-850A-B075DC1C3B34"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2CD5777C-4DF6-45AC-BB1C-56FE85E718A9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5D08A3EA-36BD-4A9B-AD67-77C0215751BB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7D2519AA-3736-430E-AD8F-39AC4EB04AE0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DD1FF8F2-C6D2-416B-8A93-D4B044D041A5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D221202D-3D71-4801-90B0-E588395C4252"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5E3C113B-7069-4547-B612-616518D009F8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "121AF08F-CEE5-46F5-844A-3A92D935C2A8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6A5C47E2-5DCB-42F2-9614-A12D954303F4"
+      "id": "F1F78AA9-3A07-4558-845F-1C28CFAB8CA8"
     },
     {
       "class": "symbolInstance",
@@ -119,7 +79,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "17286AD0-4795-40B8-809F-2639FAC79F4A"
+      "id": "D221202D-3D71-4801-90B0-E588395C4252"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CD5777C-4DF6-45AC-BB1C-56FE85E718A9"
     },
     {
       "class": "symbolInstance",
@@ -127,11 +91,47 @@
     },
     {
       "class": "symbolInstance",
+      "id": "121AF08F-CEE5-46F5-844A-3A92D935C2A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D2519AA-3736-430E-AD8F-39AC4EB04AE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25B07777-22CB-4B39-A843-8FD5877B80CF"
+    },
+    {
+      "class": "symbolInstance",
       "id": "8D515356-0FF3-4E4C-89F9-FF1E302F26FE"
     },
     {
       "class": "symbolInstance",
-      "id": "F1F78AA9-3A07-4558-845F-1C28CFAB8CA8"
+      "id": "6A5C47E2-5DCB-42F2-9614-A12D954303F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD1FF8F2-C6D2-416B-8A93-D4B044D041A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6483E5E-88F3-4273-850A-B075DC1C3B34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17286AD0-4795-40B8-809F-2639FAC79F4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E3C113B-7069-4547-B612-616518D009F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D08A3EA-36BD-4A9B-AD67-77C0215751BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF5292B3-BB2C-4EAA-B299-097F1291B980"
     }
   ],
   "name": "Component -- Direction links",

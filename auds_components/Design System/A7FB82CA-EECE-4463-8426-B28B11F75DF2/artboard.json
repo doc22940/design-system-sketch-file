@@ -34,7 +34,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -71,7 +71,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "1D27A185-F1E0-4A6F-96C8-DD9BE7072D70"
+      "id": "74E4C9D1-8D50-4D57-B41C-8955FD3FEAC3"
     },
     {
       "class": "symbolInstance",
@@ -83,7 +83,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "74E4C9D1-8D50-4D57-B41C-8955FD3FEAC3"
+      "id": "1D27A185-F1E0-4A6F-96C8-DD9BE7072D70"
     }
   ],
   "name": "Component -- Callout",

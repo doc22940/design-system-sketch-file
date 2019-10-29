@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "main-nav / dark alt / desktop / background copy",
-  "nameIsFixed": false,
+  "name": "Main-nav / dark / Desktop / Background",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

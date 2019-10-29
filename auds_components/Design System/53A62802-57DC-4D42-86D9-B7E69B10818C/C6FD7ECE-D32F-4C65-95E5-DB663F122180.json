@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "tags / light copy",
-  "nameIsFixed": false,
+  "name": "Tags / light / Hover",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

@@ -33,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -48,8 +48,8 @@
       "id": "822DF622-424C-46C4-B576-AC8283484F92"
     }
   ],
-  "name": "Group Copy",
-  "nameIsFixed": false,
+  "name": "Group / Hint / Text",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

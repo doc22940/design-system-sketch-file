@@ -39,8 +39,8 @@
       "id": "97E96696-3815-494A-BE6C-29A26F6A3950"
     }
   ],
-  "name": "Group Copy 3",
-  "nameIsFixed": false,
+  "name": "Group / Info",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

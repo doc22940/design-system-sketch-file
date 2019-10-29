@@ -32,8 +32,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Rectangle Copy 34",
-  "nameIsFixed": false,
+  "name": "Rectangle",
+  "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {

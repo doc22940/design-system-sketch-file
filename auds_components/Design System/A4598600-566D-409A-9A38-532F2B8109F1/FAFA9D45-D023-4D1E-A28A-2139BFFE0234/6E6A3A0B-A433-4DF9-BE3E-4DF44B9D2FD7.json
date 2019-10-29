@@ -29,9 +29,9 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "table header",
-  "nameIsFixed": false,
+  "layerListExpandedType": 1,
+  "name": "Table header / Default",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

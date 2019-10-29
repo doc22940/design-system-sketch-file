@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Callout",
-  "nameIsFixed": false,
+  "name": "Callout / light",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

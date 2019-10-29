@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Header / dark / Desktop Default Copy",
-  "nameIsFixed": false,
+  "name": "Header / light Alt / Desktop / Default",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

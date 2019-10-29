@@ -47,8 +47,8 @@
       "id": "FD02E61D-81DD-41BA-90E5-340C169B7EC0"
     }
   ],
-  "name": "Group Copy 2",
-  "nameIsFixed": false,
+  "name": "Group / Background",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -34,7 +34,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -71,31 +71,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "EEA1F6D4-AB58-43DF-901D-D51D0AF92B31"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "05B074B0-50B8-44C8-879C-822B19A1EA14"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1EE7B9BF-2A87-47F7-B3D0-38F5D80D256A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E65D4DD3-528D-4F99-96E2-C714539469FC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BC735081-C9BE-4B44-9069-789ED1488851"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "797C62F6-5C40-41E9-9B4E-FD4210F2724F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1C777979-AD15-4F06-B3D9-48E9992605A5"
+      "id": "EA8C9664-97C3-48E8-8096-97F21A72A35D"
     },
     {
       "class": "symbolInstance",
@@ -103,7 +79,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F05F6D1D-2745-4BE0-90D6-70D297C14023"
+      "id": "E65D4DD3-528D-4F99-96E2-C714539469FC"
     },
     {
       "class": "symbolInstance",
@@ -111,11 +87,35 @@
     },
     {
       "class": "symbolInstance",
+      "id": "797C62F6-5C40-41E9-9B4E-FD4210F2724F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05B074B0-50B8-44C8-879C-822B19A1EA14"
+    },
+    {
+      "class": "symbolInstance",
       "id": "E002FBC1-33C8-4A6F-994E-3960478C35A9"
     },
     {
       "class": "symbolInstance",
-      "id": "EA8C9664-97C3-48E8-8096-97F21A72A35D"
+      "id": "E804F674-E889-4CEB-AC05-3CC792D3C839"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EE7B9BF-2A87-47F7-B3D0-38F5D80D256A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F05F6D1D-2745-4BE0-90D6-70D297C14023"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC735081-C9BE-4B44-9069-789ED1488851"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EEA1F6D4-AB58-43DF-901D-D51D0AF92B31"
     }
   ],
   "name": "Component -- Progress indicator",

@@ -47,8 +47,8 @@
       "id": "A69397B0-C8DC-402E-8B2A-92DD6CB264A1"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Group / Foreground",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

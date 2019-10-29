@@ -30,12 +30,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "F1F6B493-33EE-4896-9F97-B2ECC0CC2050"
-    },
     {
       "class": "symbolInstance",
       "id": "D23EA2B2-8A45-4B8A-B80F-7292964A50EF"
@@ -54,10 +50,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "0A1F6320-B28C-4A71-B2B6-F1AC28027D92"
-    },
-    {
-      "class": "symbolInstance",
       "id": "8069633E-2BC3-4408-8439-2615785C9BF4"
     },
     {
@@ -71,6 +63,14 @@
     {
       "class": "symbolInstance",
       "id": "1DEFD546-B325-42ED-BE37-756BBACE5E8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A1F6320-B28C-4A71-B2B6-F1AC28027D92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1F6B493-33EE-4896-9F97-B2ECC0CC2050"
     }
   ],
   "name": "Table test",

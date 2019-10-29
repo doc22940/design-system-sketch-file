@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "textarea / light copy 2",
-  "nameIsFixed": false,
+  "name": "Textarea / dark",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

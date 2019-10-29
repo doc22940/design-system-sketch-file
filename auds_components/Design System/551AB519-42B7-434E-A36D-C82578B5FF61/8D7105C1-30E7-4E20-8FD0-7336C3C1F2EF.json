@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Buttons / Light / Primary / Default Copy",
-  "nameIsFixed": false,
+  "name": "Buttons / dark / Primary / Default",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

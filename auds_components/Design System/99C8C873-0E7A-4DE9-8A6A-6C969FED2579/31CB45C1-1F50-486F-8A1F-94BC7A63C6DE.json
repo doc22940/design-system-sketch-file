@@ -22,7 +22,7 @@
     "height": 184,
     "width": 420,
     "x": 415,
-    "y": 0
+    "y": 1
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "background light alt",
+  "name": "Background light Alt",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [

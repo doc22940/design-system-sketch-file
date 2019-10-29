@@ -19,7 +19,7 @@
     "do_objectID": "27DF7951-B632-4C29-819E-CA686FFC84BA",
     "height": 119,
     "width": 355,
-    "x": 26,
+    "x": 27,
     "y": 631
   },
   "hasClippingMask": false,
@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "textarea / light copy 6",
-  "nameIsFixed": false,
+  "name": "Textarea / dark / Alt",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

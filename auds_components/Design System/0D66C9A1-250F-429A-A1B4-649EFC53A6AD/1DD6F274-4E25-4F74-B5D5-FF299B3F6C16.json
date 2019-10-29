@@ -29,9 +29,9 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Checkbox / light / enabled checked",
-  "nameIsFixed": false,
+  "layerListExpandedType": 1,
+  "name": "Checkbox / light Alt / Disabled / Unchecked",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

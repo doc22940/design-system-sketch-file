@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "cta / light copy",
-  "nameIsFixed": false,
+  "name": "CTA / light Alt",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
