@@ -13,7 +13,7 @@ The purpose of the Symbols page is to show all of the available components and w
 
 ##### Example Page
 
-The purpose of the Example page is to showcase how an implementation of the Design System would look on different screen types.
+The purpose of the Example page is to showcase how an implementation of the Design System would look on different screen sizes and orientations.
 
 ## Adding a new component to the Sketch file.
 ----------------------------
