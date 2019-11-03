@@ -27,10 +27,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Buttons / Light / Secondary / Default",
-  "nameIsFixed": false,
+  "layerListExpandedType": 0,
+  "name": "Buttons / light / Secondary / Default",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DF14A40-551B-4AFB-9424-D5C91B621E27",
+      "overrideName": "387210C4-1470-4B69-A637-F833448F3AE6_stringValue",
+      "value": "Secondary button"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

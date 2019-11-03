@@ -27,9 +27,9 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Side-nav / light / heading default",
-  "nameIsFixed": false,
+  "layerListExpandedType": 1,
+  "name": "Side-nav / light / Heading / Default",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

@@ -29,9 +29,9 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "progress-indicator / light / doing copy",
-  "nameIsFixed": false,
+  "layerListExpandedType": 0,
+  "name": "Progress-indicator / light / Done",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

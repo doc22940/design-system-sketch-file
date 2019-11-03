@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "textarea / light",
-  "nameIsFixed": false,
+  "name": "Textarea / light",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

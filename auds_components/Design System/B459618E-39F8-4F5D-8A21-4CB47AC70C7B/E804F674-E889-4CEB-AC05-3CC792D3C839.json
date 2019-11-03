@@ -1,10 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "5D3D3DC1-E3B4-4260-A419-5E8A89B31521",
+  "do_objectID": "E804F674-E889-4CEB-AC05-3CC792D3C839",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "80BAB98F-6BB1-4C75-9D51-FB5C0AD3BF20",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 112,
-    "width": 376,
-    "x": 474,
-    "y": 238
+    "do_objectID": "DF8DB002-797B-452B-8778-02B3C08A80E1",
+    "height": 64,
+    "width": 320,
+    "x": 465,
+    "y": 88
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Card / light /  shadow / body",
-  "nameIsFixed": false,
+  "name": "Progress-indicator / light Alt / Done",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -39,11 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "BF945CDA-01A0-40E7-A4A4-63AE01C10F17",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B1ADD78A-FF3B-47DD-9ACE-1BC9B9E7C95D",
+  "symbolID": "8E9215D8-46EB-4B5F-A6F0-8B2F68121CAB",
   "verticalSpacing": 0
 }

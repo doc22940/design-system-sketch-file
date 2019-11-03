@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "progress-indicator / light / doing",
-  "nameIsFixed": false,
+  "name": "Progress-indicator / light / Doing",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

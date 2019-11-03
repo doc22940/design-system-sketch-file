@@ -27,8 +27,8 @@
     "do_objectID": "DA5E948F-BAB2-4793-B97C-D6770CF73FE6",
     "height": 368,
     "width": 835,
-    "x": 9826,
-    "y": 3693
+    "x": 11077,
+    "y": 3277
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -71,11 +71,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "1068D50B-8C7B-4AEA-82D4-B830DF4BC093"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0114949D-574A-4DAA-8FBB-687CC3F30EC3"
+      "id": "C64ADA54-6BE2-42B1-9D5C-4C4C260EFE96"
     },
     {
       "class": "symbolInstance",
@@ -83,7 +79,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C64ADA54-6BE2-42B1-9D5C-4C4C260EFE96"
+      "id": "0114949D-574A-4DAA-8FBB-687CC3F30EC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1068D50B-8C7B-4AEA-82D4-B830DF4BC093"
     }
   ],
   "name": "Component -- Inpage nav",

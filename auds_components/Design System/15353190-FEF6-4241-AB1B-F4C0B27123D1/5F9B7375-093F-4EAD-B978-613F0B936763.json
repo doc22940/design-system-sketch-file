@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "select / dark / default copy 2",
-  "nameIsFixed": false,
+  "name": "Select / light / Default",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

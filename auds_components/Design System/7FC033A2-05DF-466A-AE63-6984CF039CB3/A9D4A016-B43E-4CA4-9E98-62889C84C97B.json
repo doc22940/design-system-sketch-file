@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Accordion / Dark Alt / Closed",
-  "nameIsFixed": false,
+  "name": "Accordion / dark / Closed",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

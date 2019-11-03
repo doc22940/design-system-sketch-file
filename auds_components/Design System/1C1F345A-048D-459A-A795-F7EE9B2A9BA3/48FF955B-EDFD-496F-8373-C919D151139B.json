@@ -28,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "space / unit 5",
-  "nameIsFixed": false,
+  "name": "Space / Unit 5",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

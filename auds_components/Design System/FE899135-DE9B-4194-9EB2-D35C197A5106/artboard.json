@@ -27,14 +27,14 @@
     "do_objectID": "CDB06621-B95F-4DC6-9F6E-7B962C24F561",
     "height": 368,
     "width": 835,
-    "x": 19712,
-    "y": 3693
+    "x": 15011,
+    "y": 3277
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,7 +51,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -71,19 +71,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "09EEBE13-8B35-4611-BA51-E9A18A3ED575"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CE4D21D2-7346-480D-A1A7-0DB00003C41D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5CE82593-0215-4F1C-BF57-7976E5665160"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1F10F436-CE8F-4F2C-A34B-C0DA181A4439"
+      "id": "F7E5CFED-3EA1-4465-A300-BA3D09226ED2"
     },
     {
       "class": "symbolInstance",
@@ -91,15 +79,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F7E5CFED-3EA1-4465-A300-BA3D09226ED2"
+      "id": "1F10F436-CE8F-4F2C-A34B-C0DA181A4439"
     },
     {
       "class": "symbolInstance",
-      "id": "4379BF0C-FD9F-4B1D-99A8-691BB21A5BCF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F835134A-1289-4506-87FF-C30001DA81AA"
+      "id": "5CE82593-0215-4F1C-BF57-7976E5665160"
     },
     {
       "class": "symbolInstance",
@@ -107,15 +91,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "4BF2E5A6-273B-40BB-A39A-A20724618233"
+      "id": "F835134A-1289-4506-87FF-C30001DA81AA"
     },
     {
       "class": "symbolInstance",
-      "id": "B94B9738-75E0-413F-A484-1E72607D50AF"
+      "id": "4379BF0C-FD9F-4B1D-99A8-691BB21A5BCF"
     },
     {
       "class": "symbolInstance",
-      "id": "58A36447-D8A2-4A0C-86AC-12277DDD6B7E"
+      "id": "CE4D21D2-7346-480D-A1A7-0DB00003C41D"
     },
     {
       "class": "symbolInstance",
@@ -123,7 +107,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "1058A2D8-A2CF-4D65-8953-6417291522F8"
+      "id": "58A36447-D8A2-4A0C-86AC-12277DDD6B7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B94B9738-75E0-413F-A484-1E72607D50AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BF2E5A6-273B-40BB-A39A-A20724618233"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA149570-1360-47BD-A91B-34FE09D6F04E"
     },
     {
       "class": "symbolInstance",
@@ -131,7 +127,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "AA149570-1360-47BD-A91B-34FE09D6F04E"
+      "id": "1058A2D8-A2CF-4D65-8953-6417291522F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09EEBE13-8B35-4611-BA51-E9A18A3ED575"
     }
   ],
   "name": "Component -- Radio",

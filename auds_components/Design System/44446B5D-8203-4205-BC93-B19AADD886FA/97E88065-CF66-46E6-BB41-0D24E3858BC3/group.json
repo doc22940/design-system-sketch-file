@@ -55,8 +55,8 @@
       "id": "EB24E700-C9A9-4438-98DE-5E638098FD17"
     }
   ],
-  "name": "Group Copy",
-  "nameIsFixed": false,
+  "name": "Group / Foreground / Alt",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

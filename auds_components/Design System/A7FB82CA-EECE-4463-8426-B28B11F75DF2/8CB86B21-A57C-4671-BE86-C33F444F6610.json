@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Callout Copy",
-  "nameIsFixed": false,
+  "name": "Callout / light Alt",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

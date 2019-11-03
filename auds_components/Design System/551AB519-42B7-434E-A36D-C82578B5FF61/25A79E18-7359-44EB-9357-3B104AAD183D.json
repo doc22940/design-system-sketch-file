@@ -29,10 +29,16 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "Buttons / Light / Tertiary / Default Copy",
-  "nameIsFixed": false,
+  "layerListExpandedType": 0,
+  "name": "Buttons / dark / Tertiary / Default",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50396166-7C6D-4422-A76A-BF8C53AFBC41",
+      "overrideName": "5D30BBD9-2EB5-40E4-828B-47CEE1E68D9F_stringValue",
+      "value": "Tertiary button"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -21,8 +21,8 @@
     "do_objectID": "50E02080-76DE-4BED-B133-B5558BB11E2A",
     "height": 184,
     "width": 420,
-    "x": 415,
-    "y": 0
+    "x": 418,
+    "y": -7
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "background light alt",
+  "name": "Background light Alt",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [

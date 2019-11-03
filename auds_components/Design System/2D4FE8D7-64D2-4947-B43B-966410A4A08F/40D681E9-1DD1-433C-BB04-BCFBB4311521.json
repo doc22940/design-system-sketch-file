@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "breadcrumbs / light / level 2 copy",
-  "nameIsFixed": false,
+  "name": "Breadcrumbs / dark / Level 1",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

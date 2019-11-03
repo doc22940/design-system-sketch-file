@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Header / light / Mobile Hero Copy 2",
-  "nameIsFixed": false,
+  "name": "Header / dark / Mobile / Hero",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

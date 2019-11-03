@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "text-input / light",
-  "nameIsFixed": false,
+  "name": "Text-input / light",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 47,

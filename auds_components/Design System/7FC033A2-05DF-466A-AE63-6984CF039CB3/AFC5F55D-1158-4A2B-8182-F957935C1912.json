@@ -30,8 +30,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Accordion / Dark Alt / Closed Copy 2",
-  "nameIsFixed": false,
+  "name": "Accordion / light / Closed",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

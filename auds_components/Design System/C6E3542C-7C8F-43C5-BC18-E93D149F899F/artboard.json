@@ -36,8 +36,8 @@
     "do_objectID": "4591A7D4-69FB-411D-B654-4E4763A013AD",
     "height": 2205,
     "width": 1780,
-    "x": 4486,
-    "y": 1140
+    "x": 4552.000000000001,
+    "y": 922
   },
   "grid": {
     "_class": "simpleGrid",
@@ -50,7 +50,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -72,11 +72,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "EA367660-CFB0-4ADA-8D3A-9034E3134745"
+      "id": "D20F9D23-48F4-44AF-83D2-0805B9A3162C"
     },
     {
       "class": "group",
-      "id": "E3A8E8CA-F746-4169-8BF2-AA0F76D34911"
+      "id": "F05C90CD-FD88-45FF-AD0F-A01A274DA4FA"
     },
     {
       "class": "group",
@@ -87,16 +87,16 @@
       "id": "F135C866-BD66-4DA5-8969-4AE336DC92EF"
     },
     {
+      "class": "group",
+      "id": "EA367660-CFB0-4ADA-8D3A-9034E3134745"
+    },
+    {
+      "class": "group",
+      "id": "E3A8E8CA-F746-4169-8BF2-AA0F76D34911"
+    },
+    {
       "class": "text",
       "id": "1946AEB9-5D9C-4544-A983-F879286826DD"
-    },
-    {
-      "class": "group",
-      "id": "F05C90CD-FD88-45FF-AD0F-A01A274DA4FA"
-    },
-    {
-      "class": "group",
-      "id": "D20F9D23-48F4-44AF-83D2-0805B9A3162C"
     }
   ],
   "name": "Core -- Vanilla_Palette-–System",

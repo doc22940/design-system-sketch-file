@@ -27,14 +27,14 @@
     "do_objectID": "F44FF766-8144-49A3-B443-0D75609F9143",
     "height": 158,
     "width": 588,
-    "x": 3777,
-    "y": 3693
+    "x": 6641,
+    "y": 3277
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -71,7 +71,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "55714785-210F-4754-8221-2C5C57E8B35F"
+      "id": "E52B2A62-C8D7-4323-BB44-A7830CF2039F"
     },
     {
       "class": "symbolInstance",
@@ -83,7 +83,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "E52B2A62-C8D7-4323-BB44-A7830CF2039F"
+      "id": "55714785-210F-4754-8221-2C5C57E8B35F"
     }
   ],
   "name": "Component -- CTA link",

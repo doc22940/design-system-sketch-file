@@ -47,8 +47,8 @@
       "id": "27AD2A24-DEFF-4C74-9F48-A255912CF650"
     }
   ],
-  "name": "Group Copy 2",
-  "nameIsFixed": false,
+  "name": "Group / Success",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

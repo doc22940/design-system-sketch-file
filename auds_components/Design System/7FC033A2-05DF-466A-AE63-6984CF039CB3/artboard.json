@@ -25,7 +25,7 @@
     "height": 486,
     "width": 661,
     "x": 0,
-    "y": 3693
+    "y": 3277
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -51,11 +51,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "3C503E40-A93B-4852-8B50-F7AD5F732DA1"
-    },
-    {
-      "class": "rectangle",
-      "id": "B1F85F9B-CAC7-4163-8091-6090DB89093D"
+      "id": "EBFD4B97-C4EC-419A-BD0B-CE53C95CC4D7"
     },
     {
       "class": "rectangle",
@@ -63,31 +59,11 @@
     },
     {
       "class": "rectangle",
-      "id": "EBFD4B97-C4EC-419A-BD0B-CE53C95CC4D7"
+      "id": "B1F85F9B-CAC7-4163-8091-6090DB89093D"
     },
     {
-      "class": "symbolInstance",
-      "id": "A9D4A016-B43E-4CA4-9E98-62889C84C97B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AFC5F55D-1158-4A2B-8182-F957935C1912"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1A658234-461F-47DB-B47E-5DEE657ECE4A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F29F8DB2-F0F0-452B-9C38-C67E524B8A78"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "273D64DB-8C0D-46D8-A6D5-3D9AFE428F79"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D3FD5DD2-2B9B-4B64-9CF8-A3E87583D3ED"
+      "class": "rectangle",
+      "id": "3C503E40-A93B-4852-8B50-F7AD5F732DA1"
     },
     {
       "class": "symbolInstance",
@@ -95,7 +71,31 @@
     },
     {
       "class": "symbolInstance",
+      "id": "1A658234-461F-47DB-B47E-5DEE657ECE4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "273D64DB-8C0D-46D8-A6D5-3D9AFE428F79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9D4A016-B43E-4CA4-9E98-62889C84C97B"
+    },
+    {
+      "class": "symbolInstance",
       "id": "DEDA400B-E27B-4051-9539-E261EA84B6FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F29F8DB2-F0F0-452B-9C38-C67E524B8A78"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3FD5DD2-2B9B-4B64-9CF8-A3E87583D3ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFC5F55D-1158-4A2B-8182-F957935C1912"
     }
   ],
   "name": "Component -- Accordions",
